@@ -1,0 +1,802 @@
+[
+  {
+    "id": 1,
+    "question": "Chào bác sĩ, tôi 55 tuổi và đã mắc Covid-19 2 lần, cách nhau 3 tháng, lần thứ 2 mới khỏi bệnh được vài ngày. Cả 2 lần tôi đều uống thuốc kháng virus vì có bệnh nền suyễn. Xin cho hỏi uống thuốc như vậy thì có ảnh hưởng gì sức khỏe không? Tôi cứ cảm thấy lạnh sống lưng, nặng thở, không biết có phải hậu Covid-19 không và làm thế nào để bớt thưa bác sĩ?",
+    "answer": "Thuốc kháng virus để trị bệnh Covid-19 nói chung là lành tính, không có tác dụng lâu dài trên cơ thể người uống thuốc nên không sao.Triệu chứng cảm thấy ớn lạnh, thở nhọc hơn..., nếu kéo dài hơn 4 tuần sau khi mắc bệnh thì có thể là hội chứng hậu Covid-19, tình huống này bạn nên đến các cơ sở y tế có điều trị về hậu Covid-19 để được thăm khám."
+  },
+  {
+    "id": 2,
+    "question": "Chào bác sĩ\nNhà em có cháu 5 tháng tuổi, cháu bị covid từ ngày 23-2 đến ngày 2-3 thì hết. Lúc bị, cháu bị sốt, ho. Từ khi khỏi đến nay, cháu hay bị nghẹt mũi, nhất là ban đêm khiến cháu ngủ không ngon và bú mẹ không nhiều được như trước đó. Mũi cháu không có dịch nhầy. Gia đình có nhỏ nước muối sinh lý nhiều lần trong ngày, nhỏ và hút mũi trước khi đi ngủ nhưng chỉ lấy ra được chút váng mũi. \nXin hỏi bác sĩ nên làm gì thêm để giúp cháu giảm nghẹt mũi và có cần đưa đi khám hậu covid không. Em xin cảm ơn bác sĩ nhiều ạ.",
+    "answer": "Bé có triệu chứng kéo dài, ảnh hưởng đến giấc ngủ và bú không nhiều nên người nhà đưa cháu đi khám chuyên khoa nhi để được kiểm tra kỹ và có điều trị phù hợp. Có thể phải dùng thêm thuốc cho bé."
+  },
+  {
+    "id": 3,
+    "question": "Em sinh con được 4 tuần thì mắc Covid-19, cho con bú thì có uống Molnupiravir được không ạ? Mà nếu không uống thì có nguy cơ dương tính kéo dài đúng không thưa bác sĩ?",
+    "answer": "Molnupiravir là một loại thuốc mới, cơ chế tác dụng của thuốc là ức chế sự sao chép vật chất di truyền của vi-rút SARS-CoV-2. Trước khi sử dụng thuốc Molnupiravir, bệnh nhân cần được bác sĩ tư vấn kỹ về liều lượng, cách thức sử dụng và các lưu ý liên quan tác dụng phụ của thuốc. Không khuyến cáo sử dụng trong thời gian cho con bú và trong 4 ngày sau liều Molnupiravir cuối cùng do có nguy cơ xảy ra các phản ứng có hại cho trẻ sơ sinh có bú sữa mẹ từ mẹ có uống Molnupiravir. Việc sử dụng thuốc Molnupiravir cần có sự tư vấn kỹ và kê toa bởi các bác sĩ tùy thuộc tình trạng và mức độ triệu chứng COVID-19 của bạn. Vì vậy, bạn nên liên hệ trực tiếp bác sĩ sản phụ khoa và cung cấp cụ thể các thông tin để được tư vấn kỹ càng về việc dùng thuốc (nếu có chỉ định)."
+  },
+  {
+    "id": 4,
+    "question": "Gia đình tôi vừa rồi có tổng cộng 5 F0, gồm cha, mẹ, vợ và 2 con tôi, lần lượt nảy sinh các triệu chứng như mỏi người, ho, sốt nhẹ, sổ mũi… Tôi cũng có triệu chứng tương tự, sau mọi người một chút, thậm chí ho còn nhiều hơn vợ con, trước khi mọi người dương tính cũng sinh hoạt chung với tất cả, nhưng tôi test nhanh 2 ngày liên tục vẫn cứ 1 vạch. Tôi rất bối rối, như vậy tôi có nguy cơ cao đã nhiễm rồi và có thể lây cho người khác nếu vẫn đi làm, sinh hoạt.",
+    "answer": "Hiện tại, với biến chủng Omicron thì có thể mắc bệnh rồi, nhưng trong những ngày đầu test nhanh vẫn âm tính. Nếu bạn đã có triệu chứng, lại có nguồn lây ở trong nhà... thì bạn nên xử trí như là bạn đã mắc bệnh Covid-19. Bạn có thể xác định lại bằng xét nghiệm PCR hoặc test nhanh lại sau ngày thứ 3 của bệnh."
+  },
+  {
+    "id": 5,
+    "question": "Tôi bị mắc Covid-19 đến nay đã khỏi hơn 1 tháng nhưng hiện tại vẫn chưa thấy mùi, vị. Xin bác sĩ cho biết tình trạng này cải thiện như thế nào? Mất mùi, mất vị có ảnh hưởng đến tai mũi họng sau này không?",
+    "answer": "Trong 1 nghiên cứu ở Châu Âu, 75% bệnh nhân bị mất mùi, mất vị kéo dài có thể hồi phục sau 2 tháng và 95% hồi phục sau 6 tháng. Để cải thiện nhanh, bạn nên đến khám bác sỹ tai mũi họng để được hướng dẫn điều trị thuốc thích hợp, kết hợp hít các hương liệu để phục hồi khứu giác."
+  },
+  {
+    "id": 6,
+    "question": "Tôi 43 tuổi, mắc Covid từ ngày 3/3 đến 10/3, trong quá trình mắc thì có triệu chứng ho và sổ mũi. Sau khi âm tính thì tình trạnh ho vẫn kéo dài đến nay không thuyên giảm. xin hỏi bác sĩ có phải đang mắc hậu covid không ạ? có nên đi khám liền không ạ?",
+    "answer": "Ho kéo dài là một trong các triệu chứng thường gặp của tình trạng hậu COVID-19. Bạn nên đi khám để được đánh giá nguyên nhân gây ho và xử trí thích hợp."
+  },
+  {
+    "id": 7,
+    "question": "Ba tôi (56 tuổi) bị Covid-19 nặng hồi tháng 8-2021, phải thở HFNC, nằm viện suốt 3 tuần. Sau đó, chúng tôi có đưa ông đi tập vật lý trị liệu, điều trị hậu Covid-19, đến nay chụp phim phổi, kiểm tra tim… không còn vấn đề gì nữa, nhưng ông nói là thấy trong người vẫn còn yếu, không khỏe như xưa, tập thể dục hay làm việc gì lâu mau mệt, mau thở dốc. Nếu ông ráng sức “vượt lên chính mình” khi tập luyện để thử nâng dần thể trạng hay tập các bài tập cơ bắp ở phòng gym thì có nguy hiểm không? Ba tôi có bệnh nền cao huyết áp, uống thuốc thường xuyên, ổn định.",
+    "answer": "Chào anh, về vấn đề sức khoẻ của ba anh từ khi hết bệnh đến nay là 6 tháng vẫn còn khó thở, mệt, đó là những di chứng hậu Covid-19. Về vấn đề tập thể dục, đây là phương pháp phục hồi bệnh nói chung và Covid-19 nói riêng, tuy nhiên mức độ tập thể dục phải vừa sức với từng cá nhân cụ thể. Về vấn đề của ba anh, thì nên tiếp tục tập những bài tập thể dục vừa sức như: đi bộ, bơi lội, vận động trí não như đọc sách. Hạn chế tập những môn thể theo quá sức, về vấn đề tập quá sức tại phòng gym thì không nên do những môn đó phải cần sức nặng của cơ bắp.Ngoài ra, bệnh nhân có thể dùng những phương pháp khác để phục hồi sức khoẻ như văn uống đầy đủ chất dinh dưỡng, nghỉ ngơi, hạn chế làm việc nặng và đặc biệt có kế hoạch sinh hoạt điều độ hằng ngày. Ví dụ, phải lên tất cả công việc trong ngày, những công việc không cần thiết thì nhờ người khác làm, để cơ bắp có thời gian nghỉ ngơi."
+  },
+  {
+    "id": 8,
+    "question": "Mẹ tôi đã 68 tuổi, vừa rồi có triệu chứng đau đầu, ho, sổ mũi… mà suốt 5 ngày đầu bà không chịu test, đến ngày thứ 6 thấy bà ho hoài mới thuyết phục được, thì test lên vạch mờ. Do trước đó không biết bị Covid-19 nên bà không uống thuốc gì hết, không dùng cả Molnupiravir.Liệu như vậy sau này bà dễ phát sinh hậu Covid-19 không? Hiện bà đã bớt triệu chứng, mỗi ngày vẫn sinh hoạt, tập thể dục bình thường.",
+    "answer": "Mẹ bạn có triệu chứng, có test dương tính rồi thì chắc chắn đã bị Covid-19 nhưng là thể nhẹ, tự khỏi. Người ta thấy nhiễm Covid-19 thể nhẹ thì khả năng mắc hậu Covid-19 cũng có nhưng tỉ lệ không nhiều."
+  },
+  {
+    "id": 9,
+    "question": "Mẹ tôi mắc Covid-19 rất nặng, phải thở oxy mask vào tháng 8-2021, trước khi dương tính có tiêm 1 mũi vắc-xin Moderna được 5 ngày vì thuộc đối tượng trên 65 tuổi, sau này tiêm thêm 1 mũi Pfizer hồi tháng 1. Xin cho hỏi nếu bây giờ tái nhiễm chủng Omicron thì mẹ tôi có nguy cơ trở nặng như hồi trước không? Bà không có bệnh nền.",
+    "answer": "Chào bạn đọc, theo nghiên cứu của thế giới đối với vắc-xin hiện nay khi chúng ta tiêm đủ liều thì khả năng phòng ngừa chủng Omicron vẫn có hiệu quả (vấn đề giảm tử tỷ lệ tử vong, trở nặng và nhập viện). Vì vậy, khi tiêm đủ thì khả năng phòng ngừa biến chứng trở nặng do chủng Omicron vẫn có hiệu quả. Tuy nhiên, mẹ anh đã lớn tuổi, trên 65 tuổi, thuộc đối tượng nguy cơ cao, mặc dù không có bệnh nền nhưng đã bị Covid-19 nặng lần trước thì khả năng phục hồi của cơ thể cũng giảm. Vì vậy, khả năng nhiễm Omicron cũng có thể xảy ra, nên tuân thủ 5K bắt buộc phải thực hiện nghiêm ngặt."
+  },
+  {
+    "id": 10,
+    "question": "Tôi 33 tuổi, mắc Covid-19 hồi Tết vừa rồi, cũng hành hơi nhiều, có ho, sốt, mất mùi, vị, uể oải, khoảng 7 ngày thì âm tính. Tuy nhiên từ đó đến giờ tôi gặp hiện tượng cứ đứng dậy nhanh là chóng mặt, choáng váng; có cảm thấy dễ say xe hơn trước. Đó có phải là hậu Covid-19 không, nên khắc phục như thế nào?",
+    "answer": "Các triệu chứng như chóng mặt, hay quên... có thể là tình trạng rối loạn thần kinh tự động của hậu Covid-19. Theo như người ta thấy, không chỉ bệnh Covid-19 nặng mới có thể bị hậu Covid-19, các thể nhẹ cũng có thể gặp phải các triệu chứng hậu Covid-19 sau này. Bạn có thể đến các cơ sở y tế có phòng khám hậu Covid-19 để được thăm khám."
+  },
+  {
+    "id": 11,
+    "question": "Người bị Covid ngay sau khi chích ngừa vắc xin phế cầu 13 có bị ảnh hưởng đến phổi không? Vắc-xin có còn tác dụng bảo vệ phổi sau này không?",
+    "answer": "Vắc-xin Covid-19 có hiệu quả để giảm tỷ lệ tử vong, bệnh nặng, nhập viện do Covid gây ra nên không chỉ bảo vệ phổi mà còn bảo vệ cả cho cơ thể bệnh nhân nhiễm Covid. Vắc-xin phế cầu là một dạng vắc-xin khác chỉ phòng ngừa trở nặng do tác nhân phế cầu gây viêm phổi."
+  },
+  {
+    "id": 12,
+    "question": "Đợt phường cho tiêm mũi 3 (Pfizer), tôi mới chích được 3 ngày thì phát hiện dương tính, triệu chứng nhẹ. Xin cho hỏi mới tiêm xong đã bệnh như vậy thì liệu vắc-xin có còn tác dụng không hay sau này tôi phải tiêm thêm mũi khác?",
+    "answer": "Một lần mắc bệnh Covid-19 thì khả năng đáp ứng kháng thể của cơ thể rất cao. Anh không cần tiêm thêm mũi khác để thay thế mũi đã tiêm."
+  },
+  {
+    "id": 13,
+    "question": "Mẹ tôi (70 tuổi) bị ung thư, đợt đáng lẽ tiêm mũi 3 thì do đang điều trị nên phải hoãn tiêm, đến giờ vẫn chưa tiêm. Xin cho hỏi như vậy mắc Omicron có nguy hiểm không, người bị ung thư hóa trị liệu nếu dính Covid-19 có thể dùng thuốc kháng virus hay kháng thể đơn dòng Evusheld được không?",
+    "answer": "Chào bạn đọc, theo tổ chức y tế thế giới chủng Omicron lây nhiễm cao nhưng khả năng trở nặng và ảnh hưởng thấp hơn so với các chủng Covid - 19 trước đây. Tuy nhiên, mẹ của anh có bệnh lý nền nặng là ung thư đang hoá trị thì nguy cơ trở nặng cũng có thể xảy ra với tỷ lệ cao hơn những bệnh nhân khác. Theo phác đồ của Bộ Y tế mới nhất, tất cả những thuốc kháng virus hay kháng thể đơn dòng chống chỉ định ở những bệnh nhân suy giảm miễn dịch nặng. Vì vậy, nếu mẹ anh bị Covid-19 thì phải được bác sĩ tư vấn, đánh giá tình trạng suy giảm miễn dịch xem xét có nên sử dụng thuốc kháng virus hay không."
+  },
+  {
+    "id": 14,
+    "question": "Thứ chuyên gia, một số ý kiến cho rằng nên coi Covid-19 như một bệnh đặc hữu, cúm mùa nhưng tôi thấy mỗi ngày nước ta vẫn có đến gần 100 ca tử vong, cao hơn rất nhiều so với tỷ lệ tử vong do mắc cúm. Ý kiến của ông về vấn đề này như thế nào?",
+    "answer": "Hiện nay, đang trong quá trình chuyển từ đại dịch sang bệnh dịch lưu hành (bệnh đặc hữu). Hiện chưa là bệnh dịch lưu hành, vì tỉ lệ mắc trong dân cư còn đang cao, số lượng người tử vong hằng ngày còn cao, tỉ lệ miễn dịch cộng đồng chưa đạt đến mức mong muốn (phải trên 90%).Khả năng lây nhiễm hiện nay vẫn còn cao. Nhưng chúng ta đã có những điều tiết để chuyển sang bệnh lưu hành, như dỡ bỏ giãn cách xã hội, dỡ bỏ phong toả các khu vực, không hạn chế tụ tập đông người ở nhiều nơi, người nước ngoài vào không kiểm tra hộ chiếu vắc-xin, được tự do đi lại.Tuy nhiên, hiện một số đối tượng vẫn chưa được tiêm vắc-xin Covid-19, như trẻ em dưới 12 tuổi, người cao tuổi có bệnh nền là những đối tượng dễ nhiễm bệnh. Để đạt được trạng thái bệnh lưu hành thì hệ số lây nhiễm phải trở về gần bằng 1 và tỉ lệ miễn dịch cộng đồng bao gồm những đã tiêm vắc-xin, những người đã bị nhiễm tự nhiên phải trên 90%, số người tử vong hằng ngày giảm xuống và loại virus này ổn định hơn, không có thêm các biến chủng nguy hiểm gây ra các làn sóng dịch.Trong tuần qua, các chuyên gia WHO họp bàn, quyết định công bố, đại dịch Covid-19 thành dịch lưu hành, nhưng chưa đi đến được thống nhất, vì tỉ lệ tiêm vắc-xin nhiều nước còn thấp, vẫn còn khả năng có thêm những biến thể.Khác biệt cơ bản giữa đại dịch với dịch thông thường là sự chuyển đổi giữa trách nhiệm phòng chống dịch, khám chữa bệnh trong đại dịch (nhóm A) là Nhà nước hỗ trợ toàn bộ, có nhiều biện pháp bắt buộc thực hiện. Còn khi đã sang dịch lưu hành, người dân phải tự bảo vệ, dự phòng và chi trả cho công tác khám chữa bệnh."
+  },
+  {
+    "id": 15,
+    "question": "Nhờ PGS-TS Nguyễn Tiến Dũng giải đáp:\n1) Con tôi 8 tuối, chưa tiêm vắc-xin, vừa rồi sốt 2 ngày, test nhanh phát hiện dương tính Covid-19, tự theo dõi ở nhà 2 ngày sau thì khỏi.\nVậy con tôi có cần tiêm vắc-xin nữa hay không (sắp tới tiêm cho trẻ 5- dưới 12 tuổi). Sau khi mắc Covid-19, hậu quả về lâu dài đối với con tôi đáng lo không?\n2) Mẹ mang thai chuyển dạ sắp sinh thì mắc Covid-19, trở nặng, vậy con có bị làm sao không? Khi trẻ sinh ra thì cần làm gì để tránh bị lây Covid-19 từ mẹ?",
+    "answer": "Đây là câu hỏi rất khó trả lời, tuy nhiên tôi sẽ cung cấp cho chị những thông tin khoa học để chị có thể tự quyết định có nên tiêm cho con hay không? Có 2 luồng uống kiến, một luồng tôn trọng miễn dịch tự nhiên thì con chị mắc bệnh rồi là có miễn dịch tự nhiên thì không cần phải tiêm. Luồng ý kiến thứ 2 cho rằng Covid-19 có thể bị nhiễm lại dù người đó đã mắc bệnh hay đã tiêm đủ liều vắc-xin. Vì vậy họ thiên về ý kiến nên tiêm.Tuy nhiên, thời điểm nào nên tiêm là vấn đề đang còn tranh cãi. Có ý kiến cho rằng 3 tháng, có ý kiến cho rằng 6 tháng và một số cho rằng 8 tháng sau khi mắc mới tiêm.Về hậu quả của Covid-19, tôi nghĩ rằng con chị bị nhẹ và theo dõi ở nhà đã khỏi thì hầu như không có hậu quả gì. Nhưng chị vẫn cần theo dõi con bởi một số rất rất ít đứa trẻ sau nhiễm Covid-19 có thể bị hội chứng MIS-C.Về câu hỏi thứ 2 của bạn, nếu bạn chỉ hỏi con bạn có bị mắc Covid-19 hay không thì tôi sẽ trả lời là tỉ lệ nhiễm Covid-19 từ mẹ sang trẻ sơ sinh rất thấp kể cả khi bạn cho con bú trực tiếp và sống cùng 1 phòng."
+  },
+  {
+    "id": 16,
+    "question": "Tôi mắc Covid-19 lần đầu là tháng 1-2022, sau đó chỉ 2 tháng lại mắc tiếp lần nữa, cả 2 lần đều có triệu chứng tương đối nhẹ dù cũng hành vài ngày, lần 1 là ho, mất mùi, lần 2 ho, sổ mũi, mỏi người, nhức đầu. Nhưng tôi nghe bạn bè nói Covid-19 nhẹ vẫn gây hậu Covid-19. Tôi bị 2 lần liên tiếp vậy có khi nào mai này nảy sinh hậu Covid-19 không, làm thế nào để phòng ngừa?",
+    "answer": "Ngay cả khi bị Covid-19 nhẹ thì vẫn có tỉ lệ nhỏ gặp hậu Covid-19. Để phòng ngừa hội chứng hậu Covid-19 thì trong thời gian phục hồi bạn nên có chế độ tập luyện thể dục để nhanh hồi phục sức khỏe, kết hợp với các bài tập thở."
+  },
+  {
+    "id": 17,
+    "question": "Kính thưa quý chuyên gia, bác sĩ. Năm nay tôi 40 tuổi, tôi bị Covid-19 vào tháng 8/2021 (chỉ bị nhẹ, không thở máy, trước lúc nhiễm tôi có tiêm 1 mũi vắc xin Astra vào tháng 6/2021), từ lúc khỏi bệnh cho đến nay tôi thấy sức khỏe mình giảm nhiều, thường xuyên bị nghẹt mũi, đau mỏi cơ, hồi hộp lo âu, và rất dễ mệt khi phải làm việc nặng, leo cầu thang... Kính mong quý chuyên gia, bác sĩ tư vấn giúp tôi cách để tôi có thể hồi phục sức khỏe.",
+    "answer": "Sau khi khỏi Covid-19, một số bệnh nhân cũng có những triệu chứng tương tự như chị nêu ra. Đầu tiên, bạn có thể tự kiểm tra bằng cách đo nồng độ Oxy trong máu (SPo2) nếu có những tình trạng sau:- Đo SPo2, nếu dưới 96% khi đang nghỉ ngơi;- Hoặc thử bằng biện pháp đứng lên- ngồi xuống trong vòng 1 phút; hoặc đi bộ 40 bước trên mặt phẳng mà giảm 3% so với giá trị ban đầu thì dấu hiệu này cần đi khám bác sĩ sớm.Còn những triệu chứng khác không có những dấu hiệu tôi vừa nêu, anh cần sắp xếp thời gian nghỉ ngơi, làm việc hợp lý, ngủ đủ giấc, ăn uống đủ và cân đối các chất dinh dưỡng và kết hợp với các phương pháp như kỹ thuật thở, điều chỉnh tư thế, thở chúm môi hoặc kiểm soát hơi thở."
+  },
+  {
+    "id": 18,
+    "question": "Theo một số nghiên cứu trên thế giới, nam giới sau khi mắc Covid-19 có thể khiến tinh trùng của nam giới giảm chất lượng và số lượng. Còn ở nữ thì hoạt động của buồng trứng và tử cung bị ảnh hưởng làm giảm khả năng thụ thai (do nang trứng không phát triển) và giảm khả năng làm tổ của trứng. Xin bác sĩ giải thích một chút về mối liên hệ này như thế nào?",
+    "answer": "Một số nghiên cứu cho biết khi virus gắn vào các thụ thể ACE2 ở tinh hoàn nam giới thì sẽ ảnh hưởng đến các cấu trúc nằm trong tinh hoàn như ống sinh tinh, tế bào nuôi dưỡng tinh trùng là tế bào Sertoli và tế bào Leydig là nơi sản xuất ra testosterone (hormone sinh dục nam). Testosterone có vai trò quan trọng hỗ trợ cho sự sinh sản và phát triển tinh trùng. Còn ở nữ, thì khả năng thụ thai và khả năng làm tổ của trứng phụ thuộc rất nhiều yếu tố. Để hiểu rõ hơn vấn đề bạn nêu thì bạn cần liên hệ bác sĩ chuyên khoa hiếm muộn để được tư vấn đầy đủ hơn."
+  },
+  {
+    "id": 19,
+    "question": "Chào Bác sĩ! Cháu bé 3 tuổi sau Coivid ho nhiều ko dứt, uống siro ho ko đỡ vậy có loại thuốc nào cho bé uống ko ạ, xin xảm ơn bác sĩ!",
+    "answer": "Một số trẻ sau mắc Covid-19 sẽ ho rất lâu cũng như khi trẻ bị các bệnh nhiễm virus đường hô hấp khác, đôi khi phải 1-2 tháng mới hết. Bạn nên cho con uống các thuốc siro ho đông y thảo dược như một số thuốc bổ phế, Ích nhi..."
+  },
+  {
+    "id": 20,
+    "question": "- Trong thời gian mắc covid có nên sử dụng chất ngọt nhiều không? ví dụ: nước chanh nóng, mật ong ...)\n- Sau khi mắc covid tôi có cảm giác hơi thở ngắn lại, và có cảm giác mệt ở ngực. Vậy có ảnh hưởng gì đến phổi và tim mạch không ạ?\n- Hôm nay là ngày thứ 6 nhưng test lại thì vẫn còn 2 vạch mờ, vậy khoảng bao nhiêu ngày nữa thì sẽ âm tính và hết thời gian cách ly",
+    "answer": "Khi bị COVID-19, cần tăng cường dinh dưỡng để nâng cao thể trạng và miễn dịch, ăn đủ chất, nhiều trái cây, uống đủ nước. Bạn liên lạc với y tế địa phương khi có các triệu chứng bất thường hoặc dai dẳng trong thời gian điều trị taị nhà. Bạn có thể liên lạc với trạm y tế phường để được hướng dẫn tiêu chuẩn dỡ bỏ cách ly điều trị tại nhà. Có thể từ 7 đến 14 ngày tuỳ trường hợp."
+  },
+  {
+    "id": 21,
+    "question": "Tôi bị Covid-19 với triệu chứng khoảng 5 ngày, giống cảm cúm, vừa hết được 2 tuần nhưng từ đó đến giờ có lẽ bị hậu Covid-19 nên luôn cảm thấy mỏi cơ, rất mỏi, nằm, ngồi tư thế nào cũng mỏi, uể oải, cảm giác yếu đi nhiều. Vì sao có tình trạng này và khắc phục như thế nào?",
+    "answer": "Bạn có thể tập thở, tập thể dục nhẹ nhàng để dần khắc phục tình trạng này. Nếu các triệu chứng vẫn kéo dài sau 4 tuần thì mới là hậu Covid-19, khi đó bạn nên đi khám."
+  },
+  {
+    "id": 22,
+    "question": "Tôi từng có giai đoạn trị bệnh phổi cách đây 5 năm và trước giờ mỗi khi trời trở lạnh đều rất hay gặp các vấn đề về hô hấp, hay ho, viêm họng. Vừa rồi tôi bị Covid-19, cũng không nặng, giống cơn cảm cúm, khoảng 5 ngày hết triệu chứng, 7 ngày dương tính nhưng từ lúc đó đến giờ tôi thấy ngực vẫn nằng nặng, leo cầu thang 2 tầng là hụt hơi dù tôi mới 35 tuổi. Có phải tôi bị hậu Covid-19 không, nên điều trị như thế nào?",
+    "answer": "Chào bạn đọc, các triệu chứng như bạn đọc nêu trên là hậu Covid-19. Để giảm các triệu chứng này, ngoài phương pháp điều trị bằng thuốc chúng ta còn phối hợp những phương pháp điều trị không dùng thuốc1. Tập thể dục thường xuyên, vừa phải như đi bộ, bơi lội2. Tập thở cơ hoành, tập ho, tập thở bụng3. Cung cấp đầy đủ dinh dưỡng và vi chất, vitamin"
+  },
+  {
+    "id": 23,
+    "question": "Bị F0 có ảnh hưởng gì đến trí nhớ của trẻ, nghe nói có cháu bị covid 2 lần nên học hành kém đi, không nhớ bài học như trước?",
+    "answer": "Tôi không thích dùng chữ F0 bởi F0 bao gồm cả những trường hợp nhiễm virus SARS-CoV-2 không triệu chứng và 3 thể bệnh Covid-19 từ nhẹ đến trung bình, nặng và rất nặng (có biến chứng), vì vậy không biết con bạn bị một trong các thể nào trên đây. Nếu là nhiễm virus không triệu chứng hoặc Covid-19 thể nhẹ thì rất ít để lại hậu quả. Còn nếu từ thể trung bình trở đi thì có thể ảnh hưởng đến sức khoẻ và trí nhớ của trẻ trong một thời gian nếu có biểu hiện gì nên đưa trẻ đi khám."
+  },
+  {
+    "id": 24,
+    "question": "Một số nơi đề xuất cho cho F0 và F1 đi làm Nếu điều này được thực hiện, nguy cơ bùng phát mạnh có xảy ra hay không? Người dân làm gì để bảo vệ mình trong môi trường ra đường gặp F0 như hiện nay?",
+    "answer": "Hiện nay nhu cầu lao động để thực hiện các công việc tại các doanh nghiệp là rất cấp thiết và số người F0, F1 trong cộng đồng là rất đông. Nếu F0 không triệu chứng, F1 ở nhà thì sẽ thiếu hụt lao động. Thực tế vừa qua, trong số những người F1 được cách ly tập trung chỉ có 5-7% trở thành F0, còn lại trên 90% khoẻ mạnh bình thường. Cho nên họ có thể đi lao động, làm việc.Đối với F0, những người không có triệu chứng, tức là nhịp thở dưới 20 lần/phút và nồng độ ô xy trong máu trên 96%, có xét nghiệm Covid-19 dương tính, thì họ vẫn có thể được làm việc trên cơ sở tự nguyện. Tuy nhiên, điều kiện tiên quyết đối với F0 đi làm là đảm bảo dịch không lây lan ra đồng nghiệp, cộng đồng (trên đường đi làm, tại chỗ làm việc tuân thủ 5K...)Ngoài ra, nhiều F0 mong muốn đi làm bởi nếu họ nghỉ ở nhà thì sẽ không có lương từ đơn vị mà phải xin bảo hiểm xã hội, đó là quá trình phức tạp. Do đó, nhiều lao động vẫn muốn đi làm, nếu chúng ta thực hiện nghiêm không cho F0, F1 đi làm thì họ sẽ không khai báo, họ sẽ im lặng để đi làm, như vậy nguy cơ còn cao hơn. Thực tế vừa qua có một số trường hợp F0, F1 không báo cáo, vẫn đi làm bình thường."
+  },
+  {
+    "id": 25,
+    "question": "Biểu hiện hậu Covid-19 ở trẻ em là gì? Những dấu hiệu nào đáng lo? Sau khi khỏi Covid thì bao lâu nên cho trẻ và người lớn đi khám hậu Covid-19 thưa PGS Dũng?",
+    "answer": "Biểu hiện hậu Covid-19 ở trẻ em ít gặp hơn rất nhiều so với người lớn. Nếu có hậu Covid thì tỉ lệ gặp ở các trẻ lớn nhiều hơn các trẻ nhỏ và chủ yếu là các rối loạn về tâm thần như: lo âu, trầm cảm và các rối loạn khác như mất ngủ, rối loạn trí nhớ, thiếu tập trung, mệt mỏi về thể chất và tinh thần. Các biểu hiện này chủ yếu nên tự tập thể dục, thay đổi lối sống và một số trường hợp phải gặp các nhà tư vấn tâm lý trẻ em để khắc phục.Bạn chỉ nên đi khám hậu Covid khi có một trong các triệu chứng sau như: mệt mỏi lâu ngày, mất ngủ, đau, giảm khả năng làm việc, học tập, khó thở, sốt, ho nhiều.... Còn nếu không có triệu chứng gì thì không cần đi khám."
+  },
+  {
+    "id": 26,
+    "question": "Em khỏi Covid-19 được 10 ngày rồi nhưng hiện tại e bị mất ngủ. Cả đêm và ngày đều không ngủ được. Em có uống thuốc ngủ thảo dược mà vẫn không ngủ được. Em rất lo lắng, mong bác sĩ tư vấn ạ!",
+    "answer": "Hội chứng hậu Covid-19 được định nghĩa là những vấn đề phát sinh sau 4 tuần. Còn những vấn đề bạn gặp phải là do tình trạng suy nhược sau khi mắc bệnh nhiễm trùng. Vì vậy bạn cần nghỉ ngơi, có thể dùng một số thuốc an thần nhẹ thì có thể giúp cải thiện dần triệu chứng này."
+  },
+  {
+    "id": 27,
+    "question": "Em bị nhiễm covid từ 23/10 và tự cách ly tại nhà. Đến 1 tuần thì e  test lại 1 vạch. Trong thời gian bị nhiễm, em chỉ bị mất khứu vị giác, hay đổ mồ hôi lạnh về đêm chứ không có triệu chứng gì khác. \nNhưng đến khi hết bệnh được 1 tuần  thì e lại bị ho rất nhiều. Đến nay đã 4 tháng hơn như em vẫn ho về đêm nhiều ạ. Em đi khám ở BV lớn và cả bác sĩ ngoài đc hơn 3 tháng nay nhưng vẫn không khỏi ho. Mặc dù các BS kiểm tra và bảo phổi em đã khoẻ và bảo là ho không phải do phổi, nhưng em vẫn ho đờm trong nhiều ạ. Mong các Bác Sĩ giúp đỡ em ạ, em xin cảm ơn các Bác sĩ nhiều ạ.",
+    "answer": "Chào bạn đọc, các triệu chứng của em là di chứng hậu Covid-19. Theo WHO, các triệu chứng có thể kéo dài từ 4 tuần đến 6 tháng. Để giảm các triệu chứng này thì ngoài dùng thuốc, chúng ta cần phải phối hợp các phương pháp điều trị khác như:1. Kiểm soát ho: uống nước nhiều, trung bình từ 2-3 lít/ngày - nhấp từng ngụp nhỏ, hết ngụp này tới ngụp khác, tránh uống từng ngụp lớn. Uống nước hơi nóng. Thử nằm nghiêng sang một bên, thử đi tới đi lui điều này giúp đẩy đờm lên ho ra ngoài.2. Tập thể dục thường xuyên, vừa sức, điều độ.3. Tập thở gồm: hít sâu bằng mũi hai nhịp sau đó nín thở 4 nhịp và mím môi thở ra bằng miệng 4 nhịp cho hết hơi.4. Dinh dưỡng đầy đủ gồm: protein, uống sữa và đổ sung đầy đủ vitamin A, B, D, E"
+  },
+  {
+    "id": 28,
+    "question": "Cả nhà tôi 8 người thành F0, triệu chứng nhẹ, nhưng trong đó có cha mẹ tôi (62 và 64 tuổi) nhất định không chịu test, không chịu uống thuốc gì hết vì bảo không có bệnh nền. Ông bà có khả năng bị hậu Covid-19 cao không thưa bác sĩ? Lúc bị thì cả 2 người chỉ có sổ mũi và hơi mỏi người, tuy nhiên tôi thấy giống triệu chứng của cả nhà (đều 2 vạch), với lại chúng tôi sinh hoạt chung trước đó nên chắc 99% là cha mẹ cũng bị rồi.",
+    "answer": "Các trường hợp bị COVID -19 nhẹ, nếu triệu chứng kéo dài hoặc xuất hiện triệu chứng bất thường sau khi bị COVID thì nên đi khám để được đánh giá tình trạng hậu COVID."
+  },
+  {
+    "id": 29,
+    "question": "Nhiều người cho rằng mắc Covid-19 là yên tâm được mấy tháng không lo mắc Covid-19 nữa. Điều này có đúng không?",
+    "answer": "Về cơ bản, những người tiêm vắc-xin cũng như những người đã mắc Covid-19 thì cơ thể tạo ra kháng thể từ 3-6 tháng. Do đó, những người đã nhiễm, trong vòng 3 tháng vẫn có thể bị nhiễm nhưng rất nhẹ, hoặc không có triệu chứng. Những trường hợp nhiễm có thể xảy ra ở những người có sức đề kháng kém, không tạo được miễn dịch. Nếu đã bị nhiễm Covid-19, phải tuyệt đối thực hiện 5K, theo dõi sức khoẻ, không được chủ quan."
+  },
+  {
+    "id": 30,
+    "question": "Bác sĩ cho biết : Tôi hiện đang là F0 nhiễm ngày 15/3:2022 và đang theo dõi tại nhà . Chỉ có biểu hiện hơi ho nhẹ ( thỉnh thoảng ) . Tôi có đang uống thuốc do nhà thuốc bán . Bao gồm thuốc trị đờm , đau cơ ( do ngày đầu hơi bị đau mỏi băp chân và nay ko còn nữa ) , đau họng ( cũng bị đau ngày đầu ) và uống vitamin c + Oresol - ac \nTôi có đang điều trị bệnh tiểu đường tóp 2 ổn định . Vậy Bác sĩ vui lòng cho biết Tôi phải làm gì ? Và có lên dùng thuốc đặc trị covid không ? \nCám ơn ! \nSố điện thoại 0901810103",
+    "answer": "Chào bạn đọc, ngoài những thuốc bạn đang uống bạn nên chú ý những triệu chứng sau đây để báo cơ sở y tế địa phương gần nhất:1. Cảm giác khó thở, nặng ngực, nhịp thở trên 26 lần hoặc SpO2 dưới 96%2. Đường huyết không ổn địnhNgoài ra, nếu không có các triệu chứng trên ngoài dùng thuốc các bạn nên thực hiện thêm các phương sau: thực hiện phương pháp nằm sấp, tập thể dục thường xuyên điều độ, tập thở chúm môi, ăn uống dinh dưỡng đầy đủ (3-5 cữ/ngày), uống nhiều nước (2-3 lít/ngày), súc miệng 5 lần/ngày và rửa mũi 3 lần/ngày.Do thông tinh của bạn chưa đầy đủ nên tôi không thể đánh giá tình hình, bạn có thể gọi đến cơ sở y tế để cung cấp thêm thông tin và nhận hướng dẫn cụ thể."
+  },
+  {
+    "id": 31,
+    "question": "Em bị Sars-cov-2 hôm 7-3-2022 và đã test âm tính ngày 15-3-2022 nhưng người luôn ở trạng thái lâng lâng, lừ đừ, ho nhiều, trí nhớ suy giảm.  Vậy bác sỹ tư vấn giùm em, em cảm ơn nhiều ạ!",
+    "answer": "Tình trạng của em mới qua giai đoạn cấp tính, em cần thời gian để hồi phục sức khoẻ. Nghỉ ngơi, dinh dưỡng hợp lý. Nếu triệu chứng nhiều và tăng thì em nên đi khám tại các phòng khám hậu COVID."
+  },
+  {
+    "id": 32,
+    "question": "Bà xã tôi 57 tuổi nay âm tính, không ho, người hay mệt mỏi, trí nhớ có giảm, nhức đầu. Mong chương trình giải thích hộ, cảm ơn chương trình.",
+    "answer": "Người bị Covid-19 sau 4 tuần mà vẫn còn các triệu chứng như mệt mỏi, sút giảm trí nhớ, nhức đầu, khó ngủ thì có thể đã mắc hội chứng hậu Covid-19. Bạn nên đưa bà xã đến cơ sở y tế có phòng khám hậu Covid-19 để thăm khám."
+  },
+  {
+    "id": 33,
+    "question": "Tôi đã khỏi Covid-19 được 10 ngày nhưng đến giờ vẫn đau họng, rát lưỡi và đau đầu thường xuyên, như vậy em có nên đi khám hậu Covid-19 không và khám ở đâu?",
+    "answer": "Em nên đi khám để bác sỹ đánh giá tình trạng bệnh hiện tại và có hướng xử trí tiếp. Tại Thành phố Cần Thơ có nhiều bệnh viện đã triển khai phòng khám hậu COVID như Bệnh viện Đa Trung Ương Cân Thơ, BVĐKTP Cần Thơ, BV ĐHYD Cần Thơ…"
+  },
+  {
+    "id": 34,
+    "question": "Tôi mắc Covid-19 dịp Tết vừa rồi, không biết là Delta hay Omicron, có triệu chứng là ho, sốt nhẹ, đau họng. Nhưng sau khi hết bệnh thì tôi cảm thấy như mình bị xuống sức, làm việc gì cũng mau mệt, tim đập nhanh. Tôi nghe nói Covid-19 nhẹ cũng có nguy cơ bị viêm cơ tim, đó là bệnh gì và triệu chứng của tôi có khi nào là viêm cơ tim không?",
+    "answer": "Một số bệnh nhân sau khi bị Covid-19 có triệu chứng là nhịp tim nhanh, tăng khi vận động dẫn đến bệnh nhân có cảm giác hụt hơi. Những triệu chứng này thường liên quan đến rối loạn thần kinh tự động hơn là tình trạng viêm cơ tim. Tuy nhiên bạn nên tới một cơ sở y tế có phòng khám hậu Covid-19 để được làm xét nghiệm, có các phương pháp chẩn đoán sâu hơn để đánh giá tình trạng cơ tim của bạn, nhằm đưa ra phương án điều trị cụ thể."
+  },
+  {
+    "id": 35,
+    "question": "Tôi nghe nói mắc Covid-19 dù nhẹ vẫn có thể có xơ phổi âm thầm mà không hay. Gia đình tôi vừa có 6 F0, trong đó có cha, mẹ tôi (hơn 60 tuổi), vợ chồng tôi và đứa em (30-40 tuổi) và 2 cháu nhỏ 4 và 6 tuổi. Tất cả chúng tôi đều có triệu chứng thông thường giống cảm cúm. Chúng tôi có nguy cơ bị tổn thương phổi không? Có dấu hiệu nào để nhận biết không?",
+    "answer": "Xơ phổi hậu Covid-19 không phải là tình trạng phổ biến nhưng vẫn có thể gặp ở những bệnh nhân có nguy cơ cao như bị Covid-19 nặng, có viêm phổi do Covid-19, hội chứng nguy cập hô hấp cấp tính (ARDS), phải nhập viện và có các biện pháp hỗ trợ hô hấp như hỗ trợ thở máy, thở HFNC, có các bệnh nền về hô hấp nặng trước đó... thì có tỉ lệ nhất định bị xơ phổi.Tình trạng của bạn (nếu đã tiêm Vaccine đầy đủ), bệnh chỉ có triệu chứng nhẹ như cảm cúm thì khả năng bị xơ phổi rất thấp. Bạn có thể theo dõi các dấu hiệu như ho kéo dài không giải thích được, cảm giác hụt hơi và kiểm tra bằng cách đo nổng độ oxy trong máu (SPo2), nếu từ 96% trở xuống; đứng- ngồi liên tục trong 1 phút, đi bộ trên mặt phẳng 40 bước nếu phần trăm SPo2 giảm 3% so với giá trị ban đầu (SPo2) thì đi đến cơ sở y tế để được kiểm tra."
+  },
+  {
+    "id": 36,
+    "question": "Tôi 40 tuổi, vợ tôi vừa thử thai và kết quả cho thấy cô ấy vừa có bầu. Nếu tính ngày tháng thì vợ chồng tôi có lẽ đã thụ thai trong lúc tôi mới bị Covid-19, nhưng test chưa ra, chưa biết mình bệnh. Như vậy con tôi có nguy cơ bị ảnh hưởng, bị dị tật không thưa bác sĩ?",
+    "answer": "Theo thông tin anh cung cấp thì vợ chồng anh chưa chắc mắc COVID-19. Theo các chứng cứ hiện tại thì tình trạng mắc COVID-19 chưa khẳng định có làm tăng nguy cơ dị tật thai. Tuy nhiên vợ anh cần khám thai định kỳ theo lịch và khảo sát các dị tật thai nhi như các thai phụ không mắc COVID-19."
+  },
+  {
+    "id": 37,
+    "question": "Tôi mắc covid 19 sau 8 ngày các ly tại nhà thì âm tính, lúc mắc bị sốt nhẹ mệt mỏi sau khi khỏi bệnh thi vẫn nhiều đờm làm việc là mệt tức ngực từ lúc âm tính đến nay đã 12 ngày mà vẫn như vậy mong BS tư vấn làm thế nào để cải thiện sức khỏe. XIN CẢM ƠN BÁC SỸ.",
+    "answer": "Bạn nên dùng một số thuốc ho thảo dược, làm việc vừa phải, ăn uống đủ chất, theo dõi khoảng 2 tuần sau nếu không đỡ ho bạn nên đi khám ở chuyên khoa hô hấp"
+  },
+  {
+    "id": 38,
+    "question": "Xin cho hỏi những dấu hiệu thường gặp của di chứng hậu COVID? Cách khắc phục, chữa các dấu hiệu ấy như thế nào? Xin cảm ơn bác sĩ.",
+    "answer": "Theo WHO, hậu Covid-19 khởi phát và thường kéo dài ít nhất 2 tháng và không thể giải thích bằng chẩn đoán khác khiến cho người bệnh bị suy giảm kéo dài có tác động nghiêm trọng đến khả năng quay trở lại làm việc hoặc tham gia cuộc sống xã hội. Hậu Covid ảnh hưởng đến sức khoẻ tinh thần, thể chất và gây ra những hậu quả kinh tế cho bản thân và gia đình.Hiện nay, WHO thống kê hơn 200 triệu chứng, đặc biệt những triệu chứng phổ biến: mệt mỏi, khó thở, rôid loạn chức năng nhận thức (không tập trung, khó ngủ, mất trí nhớ)Cách khắc phục sẽ theo những triệu chứng, mỗi triệu chứng sẽ có phương pháp điều trị đặc hiệu. Tuy nhiên, có những phương pháp chung như:1. Tập thể dục thường xuyên và điều độ, vừa sức2. Dinh dưỡng3. Các bài tập thở4. kế hoạch sắp xếp công việc hằng ngày, giảm những công việc không cần thiết để tiết kiệm năng lượng"
+  },
+  {
+    "id": 39,
+    "question": "Lúc bị Covid-19 có những lúc em thở mệt, nặng ngực nhưng đo SPO2 là 99%. Như vậy có khả năng em bị xơ phổi mà âm thầm nên không hay không? Có cần khám không?",
+    "answer": "Nếu các triệu chứng thở mệt, nặng ngực của bạn vẫn còn kéo dài thì nên đi khám để được đánh giá tình trạng hậu Covid-19 của bạn. Xơ phổi hậu Covid thường gặp ở các bệnh nhân bị COVID-19 nặng, nhập khoa hồi sức tích cực, thở máy."
+  },
+  {
+    "id": 40,
+    "question": "Theo hướng dẫn của Bộ Y tế, các gia đình không xông cho các F0 là trẻ nhỏ tại nhà. Xin cho biết vì sao không nên xông cho trẻ nhỏ?",
+    "answer": "Việc xông hơi không hề có tác dụng và không an toàn đối với trẻ. Phương pháp này có thể làm bỏng niêm mạc của trẻ do cha mẹ không thể kiểm soát được nhiệt độ trong quá trình xông. Ngoài ra, nếu các sản phẩm xông chứa hóa chất  độc hại sẽ có thể gây ra viêm nhiễm, bội nhiễm đường hô hấp. Khuyến cáo không sử dụng lá xông hoặc viên xông cho trẻ."
+  },
+  {
+    "id": 41,
+    "question": "Hiện nay số lớp có trẻ mắc Covid-19 rồi rất nhiều. Vậy chúng ta có nên tính đến phương án cho trẻ da mắc đi học trước?",
+    "answer": "Trẻ em nhiễm ở thể nhẹ, nhưng không biết được có nhiều trẻ em có bệnh nền, bệnh tiềm tàng trong cơ thể, trẻ em béo phì có thể gặp nguy hiểm, thậm chí có thể tử vong. Khuyến cáo của chuyên gia càng bảo vệ cho trẻ em khỏi nhiễm Covid-19 càng tốt. Theo khuyến cáo, tất cả trẻ em thì nên cho đi học nhưng phải đảm bảo được các yêu cầu của ngành giáo dục và y tế về phòng, chống dịch."
+  },
+  {
+    "id": 42,
+    "question": "Tôi mắc Covid-19 nhẹ hồi giữa tháng 2-2022 vừa rồi, có triệu chứng đau cơ, sổ mũi, ho, khô họng, không bị sốt hay mất mùi mất vị gì hết, mọi người nói chắc là Omicron. Nhưng tôi nghe nói biến chủng này bây giờ còn có thêm biến chủng BA.2, BA.3. Vậy tôi có nguy cơ tái nhiễm cao không, khi tái nhiễm có dễ bị hậu Covid-19 không?",
+    "answer": "Khả năng mắc lại một biến chủng phụ khác của Omicron là rất thấp. Tuy nhiên việc 5K để phòng tránh nguy cơ tái nhiễm cũng rất cần thiết đối với bạn."
+  },
+  {
+    "id": 43,
+    "question": "Hậu covid e thường xuyên mất ngủ, thường thức giấc lúc 2,3h sáng và không ngủ lại được, xin hướng dẫn cách chữa trị ạ, xin cảm ơn!",
+    "answer": "Mất sau Covid-19 do rất nhiều nguyên nhân nhưng chủ yếu vẫn chủ yếu là do lo lắng hoặc căng thẳng quá nhiều. Bạn nên tự mình giảm bớt lo lắng và căng thẳng bằng cách tập thể dục, đi bộ, vận động nhẹ nhàng trước khi đi ngủ. Nếu không được thì nên gặp một chuyên gia về tâm lý để được tư vấn."
+  },
+  {
+    "id": 44,
+    "question": "Nhiều ý kiến cho rằng việc tiêm vaccine phòng Covid-19 quá gần làm giảm hiệu quả vệ của vaccine. Điều này có đúng không? Sau mắc Covid-19 thì bao lâu nên tiêm?",
+    "answer": "Việc tiêm vắc-xin khoảng cách bao nhiêu là do nhà sản xuất quy định. Tuy nhiên, theo các khuyến cáo của các nhà sản xuất, chuyên gia thì không nên tiêm sớm hơn thời gian quy định. Sau khi mắc Covid-19, theo khuyến cáo của các chuyên gia thì 3 tháng sau có thể tiêm vắc-xin."
+  },
+  {
+    "id": 45,
+    "question": "Tôi bị Covid-19 vừa hết vài tuần, điều trị tại nhà. Khi bị có các triệu chứng như mỏi cơ nhiều, ho, sốt, sổ mũi, ho, rát họng… Nay tôi đã đi làm lại được 2 tuần mà vẫn còn ho nhiều. Cần xử lý, can thiệp như thế nào? Đó có phải hậu Covid-19 không và có cần đi khám không?",
+    "answer": "Đối với một số người thì triệu chứng ho kéo dài dai dẳng một thời gian sau khi mắc bệnh Covid-19. Bạn có thể uống các thuốc giảm ho thông thường, nếu vẫn không bớt thì nên đi khám."
+  },
+  {
+    "id": 46,
+    "question": "Anh trai tôi béo phì, đợt cao điểm Delta từng mắc Covid-19 nặng và bị cơn bão Cytokine, phải mất mấy tháng mới có thể nói là hồi phục hoàn toàn, đi làm lại, lúc đó giảm cân khá nhiều. Nhưng nay có lẽ do bồi bổ nhiều nên anh tôi đã béo phì lại (nặng 100 kg, chiều cao 1 mét 70). Anh tôi có dễ tái nhiễm Omicron không và nếu tái nhiễm có dễ bị Cytokine không? Có thể làm gì để phòng ngừa?",
+    "answer": "Chào chị, khả năng tái nhiễm virus Covid sau khi đã nhiễm theo WHO thấp nhưng vẫn có thể xảy ra ở bất kỳ đối tượng nào. Tuy nhiên, theo nghiên cứu chủng Omicron thì mức độ nặng giảm so với các chủng trước đây. Nhưng vẫn có một tỷ lệ nặng, nhập viện nên anh trai của chị vẫn có khả năng tái nhiễm và trở nặng. Để phòng ngừa tái nhiễm cần tuân thủ 5K."
+  },
+  {
+    "id": 47,
+    "question": "Tôi vừa mắc Covid-19 xong thì có cần tiêm mũi 3 nữa không? Sau mắc covid bao lâu thì tiêm vaccine tiếp?",
+    "answer": "Theo khuyến cáo thì nên tiêm, vì kháng thể sau khi mắc chỉ tồn tại khoảng 3 tháng. Do đó, người dân nên chủ động tiêm vắc-xin ngừa Covid-19."
+  },
+  {
+    "id": 48,
+    "question": "Hệ thống y tế dự phòng của nước ta sau mấy đợt dịch đã bộc lộ những yếu kém gì? Theo ông, giải pháp khắc phục như thế nào?",
+    "answer": "Y tế dự phòng đóng góp rất lớn cho công tác phòng chống dịch, đẩy lùi nhiều đợt bùng phát dịch. Trong giai đoạn đầu đã giữ cho Việt Nam dịch không lây lan rộng. Y tế dự phòng của chúng ta trong các đợt dịch có gặp các khó khăn về kinh phí, nhân lực trong công tác truy vết, xét nghiệm ở quy mô lớn. Đặc biệt, những người làm việc ở tuyến xã, phường thì phải thực hiện công tác tiêm chủng, truy vết, chứng nhận xét nghiệm...sức ép công việc là rất lớn.Để cải thiện công tác y tế dự phòng, cần có chiến lược lâu dài, bao gồm về kinh phí, tăng ngân sách cho y tế dự phòng, đào tạo nhân lực, có chính sách hỗ trợ cơ sở vật chất, phương tiện. Cần có tổ chức diễn tập ứng phó với đại dịch. Đặc biệt là chế độ, chính sách cho cán bộ."
+  },
+  {
+    "id": 49,
+    "question": "Trong lúc chăm sóc con trai mắc Covid-19 tôi đã bị nhiễm. Sau khi âm tính trở lại, hơn 1 tháng nay cả tôi và con trai đêm nào cũng trằn trọc không ngủ được. Tình trạng kéo dài làm tôi rất mệt mỏi, công việc bị ảnh hưởng. Thưa bác sĩ, làm cách nào để tôi nhanh chóng điều chỉnh lại giấc ngủ như trước đây?",
+    "answer": "Đây là triệu chứng của rối loạn chức năng nhận thức do hậu Covid-19 gây ra. Trước mắt, để gỉam các triệu chứng này chúng ta cần phải thay đổi, sắp xếp lại công việc, lối sống hằng ngày. Trước mắt là các phương pháp không dùng thuốc, nhằm kích thích hệ thần kinh gồm:1. Tập thể dục thường xuyên và điều độ, vừa sức2. Dinh dưỡng3. Các bài tập thở4. kế hoạch sắp xếp công việc hằng ngày, giảm những công việc không cần thiết để tiết kiệm năng lượngNgoài ra, bệnh nhân mất khứu giác thì để kích thích khứu giác thì ngửi các mùi đặc biệt như cam, cà phê, tỏi... ít nhất 2 lần/ngày."
+  },
+  {
+    "id": 50,
+    "question": "Theo thông tin tôi đọc được trên báo đài nếu bị Covid-19 dù không có triệu chứng nhưng sau đó vẫn bị hậu Covid-19, xin bác sĩ nói rõ hơn về vấn đề này. Vì hiện tại tôi không sợ mắc Covid-19 chỉ sợ hậu Covid-19. Xin cảm ơn bác sĩ",
+    "answer": "Hậu COVID-19 là Các dấu hiệu và triệu chứng xuất hiện trong hoặc sau khi nhiễm COVID-19, tiếp tục trên 12 tuần và không giải thích được bởi chẩn đoán nào khác. Theo Tổ chức y tế thế giới có khoảng 10-20% bệnh nhân bị COVID-19 có các triệu chứng kéo dài và hậu COVID-19 và không liên quan mức độ bệnh."
+  },
+  {
+    "id": 51,
+    "question": "Sau khi bị covid em hay bị ho. E cần phải làm gì cho hết ho?",
+    "answer": "Sau Covid-19 một số người ho rất lâu, bạn nên uống đủ nước và có thể dùng thêm một số thuốc ho thảo dược đông y."
+  },
+  {
+    "id": 52,
+    "question": "Tôi đã mắc Covid-19 hồi tháng 8-2021, thở oxy mask, trước đó mấy tháng có mổ đặt stent, đi khám hậu Covid-19 không được hướng dẫn tập thở, mãi 4-5 tháng sau mới thấy khỏe hẳn lại. Tôi nghe nói người mắc Delta vẫn có thể mắc lại Omicron, có cách gì để khi mắc Omicron không bị nặng như lần trước không?",
+    "answer": "Người bị nhiễm biến chủng Delta vẫn có thể tái nhiễm biến chủng khác như Omicron. Theo một số nghiên cứu, Omicron có tốc độ lây lan nhanh hơn Delta nhưng ít gây bệnh nghiêm trọng. Tuy nhiên những người có bệnh nền phải cẩn trọng. Để tránh tái nhiễm, cô (chú) tiếp tục điều trị bệnh nền, nâng cao sức khoẻ bằng chế độ dinh dưỡng hợp lý, tập luyện thể lực phù hợp đặc biệt các bài tập thở và tiếp tục 5 K."
+  },
+  {
+    "id": 53,
+    "question": "@TS-BS Lê Thị Thu Hương : Hiện trên thị trường có rất nhiều loại thuốc trị hậu Covid-19 từ thảo dược đến các loại thuốc tây, xin bác sĩ cho biết, nếu cảm thấy mình bị các triệu chứng về hô hấp, tim mạch… sau khi khỏi Covid-19 có thể mua những loại thuốc trên sử dụng mà không cần đến bệnh viện hay không?",
+    "answer": "Tình trạng hậu Covid-19 có biểu hiện triệu chứng rất đa dạng, rất dễ nhầm với các bệnh lý khác. Do vậy, nếu bạn thấy có triệu chứng về tim mạch và hô hấp cần đến cơ sở y tế để có chẩn đoán chính xác và sẽ điều trị tuỳ theo vấn đề bạn gặp phải. Tuyệt đối không tự ý mua về sử dụng khi chưa có kết quả chẩn đoán để tránh \"tiền mất tật mang\"."
+  },
+  {
+    "id": 54,
+    "question": "Không chỉ lo lắng về Covid-19, gần đây người dân lại lo ngại thậm chí lo sợ hậu Covid. Vậy, hậu Covid là gì? Khi nào cần đi khám?",
+    "answer": "Hậu Covid là một thuật ngữ mới để chỉ những người đã mắc Covid-19 nhưng các triệu chứng còn kéo dài về sau từ 2 tuần trở lên đến vài tháng. Khi có bất cứ triệu chứng gì sau khỏi Covid-19 từ 2 tuần trở lên mà bạn cho rằng là do ảnh hưởng của Covid-19 thì nên đi khám."
+  },
+  {
+    "id": 55,
+    "question": "Tôi bị mẩn ngứa toàn thân, rất khó chịu sau khi có kết quả âm tính như vậy có phải là hậu covid không ạ? Cách điều trị như thế nào? Xin cảm ơn.",
+    "answer": "Tình trạng của bạn liên quan đến dị ứng nhiều hơn là Covid-19. Bạn có thể đi khám ở các cơ sở y tế có chuyên khoa về da liễu hoặc dị ứng."
+  },
+  {
+    "id": 56,
+    "question": "Từ sau khi mắc Covid-19 (tháng 9-2021, hơi nặng, có tụt oxy máu, phải nhập viện và thở oxy mũi mấy ngày), mẹ tôi cũng phục hồi thể chất được dần dần nhưng từ đó lại thay đổi tính tình: cái gì bà cũng lo lắng quá đáng, hay cáu gắt với mọi người… Có khi nào Covid-19 gây ra điều đó không? Tôi có cần đưa bà đi khám không và khám ở chuyên khoa nào, nên thuyết phục bà như thế nào bởi bà cứ nói không phải do Covid-19.",
+    "answer": "Chào bạn, một trong những di chứng của Covid gây ra là rối loạn chức năng nhận thức, biểu hiện thường rất đa dạng từ mất trí nhớ, không tập trung, mất ngủ cho đến thay đổi tính tình và có thể gây rối loạn lo âu hoặc trầm cảm. Thuật ngữ để chỉ những điều này là sương mù não. Để khắc phục những triệu chứng này ngoài tư vấn thêm về bác sĩ chuyên khoa tâm lý chúng ta cần thực hiện các phương pháp sau:1. Thư giãn, tránh xem nhiều tin tức hoặc mạng xã hội.2. Nói chuyện thường xuyên với bạn bè, người nhà. Thực hiện những hoạt động bạn thấy thú vị, thư giãn.3. Tập trung vào những việc trong tầm kiểm soát của bạn như: ăn uống, ngủ nghỉ.4. Lập kế hoạch sinh hoạt hằng ngày để tiết kiệm năng lượng5. Cung cấp đầy đủ dinh dưỡng"
+  },
+  {
+    "id": 57,
+    "question": "Con tôi thành F0, dương tính tới 8 ngày mà triệu chứng thì quá nhẹ, chỉ sổ mũi có 2 ngày. Như vậy cháu có kháng thể không, có dễ tái nhiễm lại ngay không? Bé 8 tuổi.",
+    "answer": "Đa số trẻ em bị COVID-19 thường có triệu chứng nhẹ. Cả trẻ em và người lớn đều có thể tái nhiễm. Vì vậy sao khi khỏi bệnh vẫn tiếp tục thực hiện các biện pháp phòng tránh và nâng cao sức khoẻ."
+  },
+  {
+    "id": 58,
+    "question": "Tôi bị nhiễm covid từ 21/2/2022 đến 02/3/2022 thì âm tính. Những ngày nhiễm bệnh sức khỏe bình thường. Sau khi âm tính thì mất ngủ, đau mỏi xương khớp (như dòi bò trong xương). Nhờ bác sỹ tư vấn về cách khắc phục. Trân trọng cám ơn.",
+    "answer": "Mất ngủ, đau mỏi xương khớp là những triệu chứng thường gặp trong giai đoạn bệnh của bạn, thường sẽ dần hồi phục theo thời gian. Bạn cần sắp xếp giờ ngủ hợp lý; hạn chế tối đa việc sử dụng điện thoại, máy tính; tránh ánh sáng, tránh thức uống gây mất ngủ vào buổi tối như trà, cà phê... Bạn nên sắp xếp căn phòng ngủ yên tỉnh, nhiệt độ thích hợp, tránh ánh sáng và có các bài thập thở, tập thư giãn, vận động nhẹ, tránh lo lắng...Bạn cũng có thể sử dụng các loại thảo dược để giúp giấc ngủ tốt hơn.Nếu tình trạng vẫn còn kéo dài bạn cần đến cơ sở y tế để khám."
+  },
+  {
+    "id": 59,
+    "question": "Ba mẹ tôi mắc Covid-19 vừa khỏi, ông bà hay đọc tin tức trên báo chí và mạng xã hội nên rất lo lắng mình sẽ bị hậu Covid mặc dù ông bà không có triệu chứng gì. Ba mẹ tôi đã đến 3 bệnh viện để khám hậu Covid, kết quả hoàn toàn bình thường, nhưng ông bà nói rằng sẽ khám lại sau một tuần nữa để yên tâm. Vậy xin bác sĩ cho biết hậu Covid-19 có thật sự nghiêm trọng không? Ai nên đi khám hậu Covid và có triệu chứng như thế nào? Bao nhiêu người bị hậu Covid-19 đã tử vong?",
+    "answer": "Theo WHO, hậu Covid-19 khởi phát và thường kéo dài ít nhất 2 tháng và không thể giải thích bằng chẩn đoán khác khiến cho người bệnh bị suy giảm kéo dài có tác động nghiêm trọng đến khả năng quay trở lại làm việc hoặc tham gia cuộc sống xã hội. Hậu Covid ảnh hưởng đến sức khoẻ tinh thần, thể chất và gây ra những hậu quả kinh tế cho bản thân và gia đình.Hiện nay, WHO thống kê hơn 200 triệu chứng, đặc biệt những triệu chứng phổ biến: mệt mỏi, khó thở, rôid loạn chức năng nhận thức (không tập trung, khó ngủ, mất trí nhớ)Cách khắc phục sẽ theo những triệu chứng, mỗi triệu chứng sẽ có phương pháp điều trị đặc hiệu. Tuy nhiên, có những phương pháp chung như:1. Tập thể dục thường xuyên và điều độ, vừa sức2. Dinh dưỡng3. Các bài tập thở4. kế hoạch sắp xếp công việc hằng ngày, giảm những công việc không cần thiết để tiết kiệm năng lượngHiện nay Bộ Y tế chưa có thống kê và báo cáo tỷ lệ tử vong do hậu Covid gây ra"
+  },
+  {
+    "id": 60,
+    "question": "Tôi nghe nói con nít từng sốt cao co giật mà bị Covid-19 thì có thể bị giật lại. Con tôi 5 tuổi và dạo này lớp cháu có nhiều F0 nên rất lo. Tôi nên chuẩn bị gì để nếu lỡ cháu bị F0 không bị sốt cao co giật lại?",
+    "answer": "Sốt cao co giật sau Covid-19 cũng xử lý như sốt cao co giật do các nguyên nhân khác. Bạn có thể tìm hiểu xử trí tình trạng này mà chúng tôi đã hướng dẫn nhiều lân trên các báo và mạng xã hội."
+  },
+  {
+    "id": 61,
+    "question": "Bạn bè tôi bị Covid-19 và đã khỏi nhưng sau đó xuất hiện tình trạng đỏ mắt, da nổi ban, xin bác sĩ cho biết tình trạng này khi nào chấm dứt?",
+    "answer": "Các triệu chứng như da nổi ban, đỏ mắt có thể do nhiều nguyên nhân khác nhau. Bạn nên đi khám để được chẩn đoán và điều trị phù hợp."
+  },
+  {
+    "id": 62,
+    "question": "Em gần ngày dự sinh rồi, lại vừa dương tính với Covid-19 nên rất hoang mang. Nếu em sinh thường khi chưa kịp khỏi bệnh thì có nguy hiểm hơn người khác không thưa bác sĩ? Em nên chuẩn bị gì để có thể chăm sóc con sơ sinh mà không lây cho con? Tỉ lệ lây cho bé và bé bị nặng có cao không ạ?",
+    "answer": "Hiện tại, nhờ có hiệu quả của vaccine nên các sản phụ mắc COVID-19 đa số có triệu chứng nhẹ và không ảnh hưởng đến kết cục thai kỳ. Nếu em chuyển dạ sinh vào thời điểm vẫn còn dương tính với COVID-19 thì cũng đừng quá lo lắng, hiện tại các bệnh viện sản phụ khoa đều có bộ phận chăm sóc và điều trị để đảm bảo an toàn cho em và con của em. Tỉ lệ lây cho bé rất thấp và triệu chứng ở trẻ thường nhẹ."
+  },
+  {
+    "id": 63,
+    "question": "Sau khi khỏi Covid-19 được hai tuần thì tôi cảm thấy khó thở, tức ngực, nặng ngực khi nằm ngửa, khi lên xuống cầu thang cũng bị hụt hơi. Tôi có bệnh hở van tim. Xin bác sĩ cho biết có phải tôi bị hậu Covid-19 không, và tình trạng của tôi như vậy có ảnh hưởng gì đến bệnh tim của tôi không?",
+    "answer": "Theo WHO, hậu Covid-19 khởi phát và thường kéo dài ít nhất 2 tháng và không thể giải thích bằng chẩn đoán khác. Các triệu chứng như chị đã nói trước mắt phải khám chuyên khoa về tim vì có thể do tim mạch gây ra."
+  },
+  {
+    "id": 64,
+    "question": "Thưa chuyên gia, với F0 sau khi âm tính trở lại, cần chuẩn bị gì để giữ gìn sức khỏe trước nguy cơ hậu Covid-19",
+    "answer": "Bạn nên ăn uống đầy đủ, tập thể dục nâng dần cường độ lên tuỳ theo sức khoẻ của bạn, giữ cho tinh thần thoải mái. Mặc dù tôi biết không chỉ lo về bệnh Covid-19 và còn lo về cuộc sống của bạn nữa, tuy nhiên lo lắng nhiều do bất cứ nguyên nhân gì cũng đều ảnh hưởng đến sức khoẻ của bạn."
+  },
+  {
+    "id": 65,
+    "question": "Gần đây các khuyến cáo mạnh về việc tuyệt đối không tự ý dùng thuốc chống viêm Corticoid để điều trị Covid-19, dù thuốc này trong danh mục thuốc thiết yếu điều trị bệnh nhân Covid-19. Xin bác cho biết, Corticoid là gì mà “ghê gớm” vậy?. Bác sĩ kê đơn cho bệnh nhân trong trường hợp nào?",
+    "answer": "Đúng rồi, không nên sử dụng các thuốc này khi chưa có chỉ định của bác sĩ vì Corticoid chỉ sử dụng cho các trường hợp nặng phải nhập viện điều trị, không sử dụng cho các trường hợp Covid-19 nhẹ và trung bình điều trị tại nhà. Bởi vì Corticoid có rất nhiều tác dụng phụ đặc biệt với những người có bệnh nền sẽ làm tăng độ nặng của các bệnh nền đó như: tiểu đường, béo phì, tăng huyết áp, dạ dày- tá tràng; tim mạch..."
+  },
+  {
+    "id": 66,
+    "question": "Thời gian qua số ca mắc tăng rất cao, có ngày lên tới gần 180.000. Với số mắc như hiện nay đã được coi là đỉnh dịch chưa. Ông đánh giá thế nào về nguy cơ dịch Covid-19 hiện nay?",
+    "answer": "Hiện nay số mắc 180.000 ca chưa phải là số thưc, chỉ mới là \"tảng băng nổi\", có nhiều người trong cộng đồng có thể mắc nhưng không biết, không xét nghiệm, đặc biệt là những người không có triệu chứng.Tuy nhiên hiện nay, một số địa phương chưa tiêm vắc-xin cho toàn bộ người dân, trẻ em chưa được tiêm. Cho nên trong thời gian tới, số lượng ca nhiễm sẽ tiếp tục tăng lên. Vấn đề cơ bản là số lượng người tử vong ổn định, tỉ lệ tử vong giảm mạnh. Phải mất một thời gian nữa thì dịch mới có thể giảm dần. Trong những ngày tới có thể tăng cao, sau đó mới giảm dần. Những thành phố như Hà Nội, TP HCM, Hải Phòng đã bắt đầu giảm, như TP Hà Nội đã qua đỉnh."
+  },
+  {
+    "id": 67,
+    "question": "Người có bệnh nền tiểu đường thì sau Covid-19 có những triệu chứng gì thì cần khám thưa bác sĩ? Tôi 50 tuổi, bị tiểu đường, mới thành F0 nhưng nhẹ, đã khỏi bệnh.",
+    "answer": "Khi bạn có bất cứ triệu chứng gì bất thường sau khi mắc Covid-19 thì bạn có thể đến các cơ sở y tế có phòng khám hậu Covid-19 để được tư vấn. Còn nếu bạn vẫn khỏe thì cũng không nên lo lắng."
+  },
+  {
+    "id": 68,
+    "question": "Sau khi bị Covid-19 và sinh con, tôi bị mất ngủ và rụng tóc trầm trọng, mất ngủ nhiều đêm khiến tôi khó chịu, hay bực tức trong người, không thể tập trung làm việc gì. Bác sĩ tư vấn giúp có phải tôi bị hậu Covid-19 hay không và tôi làm gì để bớt rụng tóc và ngủ được.",
+    "answer": "Đây là rối loạn chức năng nhận thức của hậu Covid-19, bạn có thể thực hiện các phương pháp sau, nếu không cải thiện thì có thể thăm khám ở bác sĩ tâm lý1. Thư giãn, tránh xem nhiều tin tức hoặc mạng xã hội.2. Nói chuyện thường xuyên với bạn bè, người nhà. Thực hiện những hoạt động bạn thấy thú vị, thư giãn.3. Tập trung vào những việc trong tầm kiểm soát của bạn như: ăn uống, ngủ nghỉ.4. Lập kế hoạch sinh hoạt hằng ngày để tiết kiệm năng lượng5. Cung cấp đầy đủ dinh dưỡng"
+  },
+  {
+    "id": 69,
+    "question": "Con tôi 3 tuổi, khỏi Covid-19 đã 2 tuần. Tôi nên theo dõi những dấu hiệu nào của con để phòng các biến chứng hậu Covid-19?",
+    "answer": "Bạn cứ theo dõi sức khoẻ chung của con như theo dõi các bệnh khác. Nếu có các dấu hiệu và triệu chứng bất thường như mệt mỏi, khó thở, đau đầu, đau ngực, sốt, tim đập nhanh, đánh trống ngực, giảm khả năng học tập... thì nên cho con đi khám."
+  },
+  {
+    "id": 70,
+    "question": "Chào các bác sĩ,\nTôi bị covid đến hôm nay là ngày thứ 8 từ khi có kết quả xét nghiệm dương tính. Các triệu chứng trong thời gian bệnh gồm chảy nước mũi, ho rất nhiều, 2 ngày nay hết ho thì mặt cứ bừng bừng, người thấy yếu, đêm ngủ tôi có mang thiết bị đo SPO2 mỗi khi thiếp đi SPO2 lại giảm xuống mức cảnh báo có khi xuống tới 88, người rất nôn nao, mệt mỏi, tim đập nhanh, khó thở, lúc đó tôi ngồi dậy hít thở một lúc thì đỡ, tuy nhiên cứ như vậy không thể ngủ được. Hỏi tình trạng bệnh của tôi thế nào, và tôi có cần nhập viện để kiểm tra và điều trị không.\nRất mong các bác sĩ tư vấn cho.",
+    "answer": "Bạn không nên quá lo lắng vì hậu Covid-19. Bạn nên đến các cơ sở y tế để kiểm tra, có thể bạn đang mắc một số bệnh lý khác, tránh nhầm lần giữa hậu Covid-19 với một bệnh lý khác. Vì vậy, việc đi kiểm tra sức khoẻ để được tư vấn cụ thể."
+  },
+  {
+    "id": 71,
+    "question": "Bé nhà  10 tuổi, bị F0 cách đây hơn 3 tuần. Đến nay bé vẫn còn ho nhiều. Nhờ bs tv giúp bé có cần đi khám hậu Covid không ạ?",
+    "answer": "Nếu chỉ ho nhiều bạn cho con dùng các thuốc ho thảo dược hoặc có thể tự làm các loại thuốc ho tại nhà như quất hấp mật ong, hoa hồng hấp đường phèn... để cho con uống. Nếu sau 2 tuần nữa mà không đỡ nên cho con đi khám."
+  },
+  {
+    "id": 72,
+    "question": "Tôi đã mắc Covid-19 hồi tháng 8-2021, thở oxy mask, trước đó mấy tháng có mổ đặt stent, đi khám hậu Covid-19 được hướng dẫn tập thở, mãi 4-5 tháng sau mới thấy khỏe hẳn lại. Tôi nghe nói người mắc Delta vẫn có thể mắc lại Omicron, có cách gì để khi mắc Omicron không bị nặng như lần trước không?",
+    "answer": "Thông thường người ta thấy lần nhiễm Covid-19 thứ hai sẽ nhẹ hơn lần đầu do cơ thể đã có một số lượng kháng thể chống lại bệnh. Tuy nhiên bạn cũng cần tránh mắc lại bằng cách tuân thủ 5K, tiêm đủ vắc-xin."
+  },
+  {
+    "id": 73,
+    "question": "Tôi mắc Covid-19 (biến thể Delta) từ năm 2021, triệu chứng hậu Covid là hụt hơi, tức ngực, đầy bụng, rụng tóc và mất ngủ. Xin hỏi các chuyên gia cách nào để khắc phục?",
+    "answer": "Những triệu chứng có liên quan đến hậu Covid-19 cần phải thăm khám tại các sơ sở y tế thì mới có thể khẳng định được, hay là do một bệnh ý khác. Bạn nên đến các bệnh viện để kiểm tra tổng thể về sức khoẻ, từ đó các bác sĩ sẽ có kết luận và tư vấn cụ thể."
+  },
+  {
+    "id": 74,
+    "question": "Bác sĩ có thể nêu khảo sát thống kê người bị hậu Covid-19 tại một số nước có tỷ lệ ca mắc cao ở một số nước hiện nay như thế nào?",
+    "answer": "Theo WHO vào tháng 10-2021, tỷ lệ có triệu chứng hậu Covid-19 chiếm từ 18-20% bệnh nhân Covid-19 với nhiều mức độ khác nhau."
+  },
+  {
+    "id": 75,
+    "question": "Hà Nội vừa cho mở cửa ăn uống tự tập thoại mái trong bối cảnh mỗi ngày vẫn ghi nhận khoảng 30.000 ca nhiễm. Theo ông quyết định này đã phù hợp chưa?",
+    "answer": "Quyết định của Hà Nội là phù hợp với tình hình thực hiện Nghị quyết 128 của Chính phủ, để phục hồi kinh tế, du lịch. Hiện tỉ lệ tiêm chủng của Hà Nội rất cao, nhiều người nhiễm tự nhiên, nên khả năng bùng phát dịch là khó.Hiện người dân cũng đã có những kỹ năng để theo dõi, bảo vệ, cảnh giác với dịch bệnh, cho nên việc mở cửa là phù hợp với tình hình hiện nay. Tuy nhiên, Hà Nội cần có hướng dẫn, truyền thông người dân thực hiện tốt những biện pháp phòng, chống dịch, tuân thủ 5K. Các nhà hàng ăn uống phải thực hiện vệ sinh, không gian thông thoáng, tẩy trùng thường xuyên. Các nhân viên phục vụ cần được kiểm tra sức khoẻ, cần xét nghiệm những người có triệu chứng nghi Covid-19."
+  },
+  {
+    "id": 76,
+    "question": "Việt Nam có thể xem Covid-19 là bệnh đặc hữu được chưa? Khi nào? Điều kiện gì để xem đó là bệnh đặc hữu? Nếu WHO chưa xem Covid-19 là bệnh đặc hữu trong khi Việt Nam đủ điều kiện, thì có quyền công bố hay không?",
+    "answer": "Điều kiện để coi là bệnh dịch lưu hành (đặc hữu) còn có nhiều ý kiến khác nhau, chưa thống nhất. Tuy nhiên, điều kiện tiên quyết là dịch ổn định, không biến động lớn về ca mắc, ca tử vong. Bên cạnh đó, miễn dịch cộng đồng đạt ở mức cao để ngăn chặn bùng phát dịch diển rộng, hệ số lây nhiễm trở về gần bằng 1. Ngoài ra, hệ thống y tế có đủ năng lực để điều trị, cấp cứu người bệnh mà không bị quá tải. Một yếu tố quan trọng khác là tâm lý người dân đã ổn định, không lo sợ, kỹ năng tự bảo vệ sức khoẻ đã được nâng cao.Đối chiếu với các điều kiện đó, thì Việt Nam dịch vẫn đang tăng lên, tỉ lệ miễn dịch cộng đồng chưa đạt mức cao, hệ số lây nhiễm còn cao. Hệ thống y tế không quá tải, số ca tử vong đã ổn định, do đó Việt Nam đang trong quá trình chuyển sang bệnh lưu hành. Việt Nam có thể tự công bố mà không phụ thuộc vào quốc tế. Một số nước trên thế giới họ đã coi Covid-19 là bệnh lưu hành, nhưng một số nước còn theo đuổi Zero Covid-19 như Trung Quốc."
+  },
+  {
+    "id": 77,
+    "question": "3 tháng nay tôi cảm thấy làm việc gì cũng hay quên hơn trước đó, cần ghi nhớ cái gì cũng khó hơn. Có khi nào do hậu Covid-19 không thưa bác sĩ (tôi dương tính 3 tháng trước)? Có cách nào khắc phục không?",
+    "answer": "Đây là rối loạn chức năng nhận thức của hậu Covid-19, bạn có thể thực hiện các phương pháp sau, nếu không cải thiện thì có thể thăm khám ở bác sĩ tâm lý1. Thư giãn, tránh xem nhiều tin tức hoặc mạng xã hội.2. Nói chuyện thường xuyên với bạn bè, người nhà. Thực hiện những hoạt động bạn thấy thú vị, thư giãn.3. Tập trung vào những việc trong tầm kiểm soát của bạn như: ăn uống, ngủ nghỉ.4. Lập kế hoạch sinh hoạt hằng ngày để tiết kiệm năng lượng5. Cung cấp đầy đủ dinh dưỡng"
+  },
+  {
+    "id": 78,
+    "question": "Em bị Covid-19 nhưng vẫn làm việc online liên tục, mà em cũng nghe nói hồi dịch có nhiều bác sĩ F0 vẫn làm việc. Nhưng sau Covid-19 em có thấy hơi mệt mệt, bạn bè nói tại em không nghỉ ngơi nên bị hậu Covid-19. Có thật vậy không và có nguy hiểm không thưa bác sĩ. Mấy ngày nay em hơi chóng mặt?",
+    "answer": "Sau khi mắc Covid-19, trong giai đoạn phục hồi bệnh nhân thường có các triệu chứng như mệt mỏi, uể oải. Các triệu chứng này sẽ nhanh chóng qua đi khi bạn tập luyện thể dục nhẹ nhàng, tập thở."
+  },
+  {
+    "id": 79,
+    "question": "Em nghe nói sốt siêu vi sẽ ảnh hưởng nhiều đến thai. Em mắc Covid-19 khi mang thai được 1 tháng (đã tiêm 3 mũi trước đó), triệu chứng của em nhẹ, lúc bị em chưa biết mình có bầu. Lúc đó em có uống một số thuốc như paracetamol để hạ sốt, chlorpheniramine vì bị sổ mũi, ngậm kẹo ho thảo dược, uống viên sủi Berroca. Tình trạng Covid-19 và thuốc em uống có làm ảnh hưởng đến thai không thưa bác sĩ?",
+    "answer": "Đa số các sản phụ mắc COVID-19 có triệu chứng hộ hấp nhẹ đều được các bác sĩ tư vấn kỹ càng về tình trạng bệnh và các loại thuốc thông thường có thể sử dụng, đa số các loại thuốc không ảnh hưởng đến tình trạng thai hoặc không đủ bằng chứng cho thấy có gây dị tật thai. Việc mắc COVID-19 hiện tại cũng không có bằng chứng khoa học cho thấy có ảnh hưởng đến khả năng dị tật thai. Vì vậy bạn dừng quá lo lắng. Có rất nhiều nguyên nhân có thể gây dị tật thai liên quan đến nhiều bệnh lý khác nhau và di truyền. Vì vậy, bạn nên tuân thủ theo lịch khám thai, nhất là những mốc khám thai quan trọng tầm soát dị tật thai để được bác sĩ tư vấn kỹ về dị tật thai và phát hiện sớm các bất thường nếu có."
+  },
+  {
+    "id": 80,
+    "question": "Làm sao khắc phục tình trạng mất ngủ sau hậu covid ạ. Việc thiếu ngủ, mất ngủ ảnh hưởng nghiêm trọng tới cuộc sống và công việc. Rất mong các bác sĩ có thể giải đáp. Xin chân thành cảm ơn nhiều ạ.",
+    "answer": "Đầu tiên bạn phải giảm bớt lo lắng. Tôi rất thông cảm với nhiều người hiện nay hay chia sẻ với tôi về nhiều nỗi lo trong đó có lo do bệnh tật mà còn lo về đời sống kinh tế. Tuy nhiên, nếu các bạn cứ lo nhiều mà không có biện pháp khắc phục thì càng làm trầm trọng hơn tình trạng mất ngủ.Mất ngủ thì lại càng làm cho sức khoẻ giảm sút từ đó dẫn đến hiệu quả công việc không cao, ảnh hưởng đến kinh tế, vì vậy bạn phải tự thoát ra chứ không ai có thể giúp đỡ được bạn trừ khi bạn cần đến một chuyên gia tâm lý."
+  },
+  {
+    "id": 81,
+    "question": "@BS CKII  Bùi Trọng Hợp : Thưa bác sĩ, mẹ tôi hiện mắc bệnh thận giai đoạn cuối, vừa chạy thận được 4 lần thì mắc Covid - 19. Liệu khi mắc Covid - 19 bệnh thận của mẹ tôi có diễn biến nặng hơn không và cần làm gì sau khi hết covid ạ! xin cảm ơn!",
+    "answer": "Nhiễm trùng là một yếu tố nguy cơ có thể làm nặng thêm tình trạng suy thận của bệnh nhân đã suy thận mạn trước đó. Do đó trong khi điều trị bệnh Covid-19 và sau đó, bệnh nhân cần được theo dõi chức năng của thận."
+  },
+  {
+    "id": 82,
+    "question": "Sau 7 ngày hết covid, tôi thấy người uể oải mệt mỏi vào buổi sáng, xin bác sĩ tư vấn tôi nên uống thêm thuốc bổ gì để khỏi tình trạng này?",
+    "answer": "Cách khắc phục sẽ theo những triệu chứng, mỗi triệu chứng sẽ có phương pháp điều trị đặc hiệu. Tuy nhiên, có những phương pháp chung như:1. Tập thể dục thường xuyên và điều độ, vừa sức2. Dinh dưỡng3. Các bài tập thở4. kế hoạch sắp xếp công việc hằng ngày, giảm những công việc không cần thiết để tiết kiệm năng lượng"
+  },
+  {
+    "id": 83,
+    "question": "Thưa PGS-TS Nguyễn Huy Nga, cần chế độ ăn uống, dùng thuôc như thế nào cho các chứng bệnh sau Covid như ho, mất ngủ, rụng tóc... Có nên dùng thực phẩm chức năng không và nên dùng những loại chứa vitamin, khoáng chất hay hoạt chất gì? Xin cảm ơn PGS-TS Nga.",
+    "answer": "Sau khi mắc Covid-19, có thể sức khoẻ bạn giảm sút, nên ăn uống đầy đủ, đủ chất, cân đối khẩu phần ăn, rau thịt, hoa quả, bổ sung thêm nước cam, nước chanh. Bạn có thể dùng thêm các loại vitamin C tăng sức đề kháng. Bạn không nên theo những chỉ dẫn không có căn cứ khoa học ở trên mạng, không nên phí tiền vào các loại thực phẩm chức năng được \"quảng cáo\" là hỗ trợ hậu Covid-19 nhưng chưa được cấp phép, chứng minh rõ ràng.Bạn cần duy trì tinh thần thoải mái, tập thể dục, tập thở ở nơi có không khí trong lành, uống nhiều nước. Ngủ đúng giờ, không nên lo nghĩ quá nhiều."
+  },
+  {
+    "id": 84,
+    "question": "Từ sau đợt bị Covid-19 cách đây mấy tuần huyết áp của tôi cứ ở mức cao dù lúc bệnh thì cũng không nặng, chỉ giống bị cảm. Đó có phải là triệu chứng nguy hiểm không? Có khi nào do tác dụng phụ của thuốc kháng virus? Tôi 60 tuổi, có dùng thuốc huyết áp hàng ngày, lúc bị Covid-19 có uống Molnupiravir.",
+    "answer": "Thường sau khi mắc một bệnh như Covid-19 thì cũng giống như bạn đã phải gặp một tình trạng stress trong cuộc sống, có thể làm huyết áp của bạn cao hơn trước đó. Trường hợp của bạn nên đi khám để các bác sĩ có phương án kiểm soát huyết áp của bạn tốt hơn."
+  },
+  {
+    "id": 85,
+    "question": "Với việc mở cửa như hiện nay chúng ta đã có thể thực hiện mọi hoạt động bình thường như trước khi có dịch chưa?",
+    "answer": "Hiện nay Việt Nam vẫn trong tình trạng đại địch, dịch Covid-19 vẫn là nhóm A, vì vậy một số biện pháp phòng dịch nhất định phải thực hiện nghiêm, chưa thể trở lại bình thường như trước khi chưa có dịch. Như công tác kiểm dịch biên giới, việc đeo khẩu trang là bắt buộc, các bệnh viện trong trạng thái sẵn sàng chống dịch. Nhiều trẻ em chưa được tiêm, nên trường học các cấp cũng phải thực hiện các biện pháp phòng chống dịch linh hoạt, đồng thời thực hiện tiêm chủng Covid-19. Những biện pháp như rửa tay, sát khuẩn có thể không bao giờ được dỡ bỏ."
+  },
+  {
+    "id": 86,
+    "question": "Tôi bị ho, sổ mũi, sốt nhẹ, đau đầu từ 2 ngày trước nhưng test nhanh 2 lần không ra, đến ngày thứ 3 test mới ra. Trong 2 ngày có triệu chứng và ngày trước đó tôi có tiếp xúc không khẩu trang với một số người, vậy tôi có khả năng lây cho họ không, có nên cảnh báo họ không?",
+    "answer": "Khi bạn mắc bệnh Covid-19 thì bao giờ bạn cũng phải báo cho những người xung quanh để họ theo dõi, sớm phát hiện nhiễm bệnh, tránh tiếp xúc với những người thuộc nhóm nguy cơ có thể mắc bệnh nặng."
+  },
+  {
+    "id": 87,
+    "question": "Trong lúc chăm sóc con trai mắc Covid-19 tôi đã bị nhiễm. Sau khi âm tính trở lại, hơn 1 tháng nay cả tôi và con trai đêm nào cũng trằn trọc không ngủ được. Tình trạng kéo dài làm tôi rất mệt mỏi, công việc bị ảnh hưởng. Thưa bác sĩ, làm cách nào để tôi nhanh chóng điều chỉnh lại giấc ngủ như trước đây?",
+    "answer": "Trẻ con rất nhạy cảm, đặc biệt ở lứa tuổi vị thành niên vì vậy nếu bạn lo lắng quá nhiều thì đứa con cũng biết và có thể \"lây\" sự lo lắng của bố mẹ. Vì vậy bạn phải làm gương cho con để giảm bớt sự lo lắng hoặc nếu có không nên thể hiện cho con biết.Bạn nên tập thể dục nhẹ nhàng, tập thói quen đi ngủ đúng giờ và giảm bớt vào mạng xã hội bởi trong đó có rất nhiều ý kiến lo lắng dễ bị \"lây\" sự lo lắng của người khác."
+  },
+  {
+    "id": 88,
+    "question": "@TS-BS Lê Thị Thu Hương : Tôi bị 13 ngày rồi, ngày 3-03 PCR: CT 10. Test nhanh âm tính ngày thứ 10. 3 ngày qua tối nằm xuống khó thở và khó ngủ, chuyển sang ngủ ngồi, ho nhiều, khi thở phải lấy hơi lên. Bs cho hỏi bây giờ tôi phải dùng thuốc gì? Trong quá trình điều trị tại nhà tôi chỉ uống thuốc hạ sốt 2 ngày, sau đó uống C và súc họng, rửa mũi bằng nước muối.",
+    "answer": "Thông tin mà bạn cung cấp cho thấy bạn vẫn còn trong giai đoạn Covid cấp tính với khá nhiều triệu chứng như khó thở, ngủ ngồi, ho nhiều... Tuy nhiên, thông tin bạn cung cấp chưa đầy đủ như tuổi, có bệnh nền không, đã tiêm đủ liều vaccine hay chưa, khi bạn nhiễm covid-19 có được theo dõi bởi cơ quan y tế hay không... nên chưa thể đưa ra lời khuyên chính xác cho bạn.Trước mắt, bạn nên đo theo dõi SpO2, nhịp tim. Nếu SpO2 thấp hơn 96%, nhịp tim trên 100 hoặc dưới 60 thì nên liên hệ với cơ sở y tế để được hỗ trợ kịp thời."
+  },
+  {
+    "id": 89,
+    "question": "Xin bác sĩ cho biết những triệu chứng báo hiệu có thể có vấn đề về tim mạch hậu Covid-19 là gì? Tôi trước đây đã tiêm 2 mũi vắc-xin sau đó là F0, tuy nhiên, mới đây tôi tiếp tục là F0 và nhiễm Omicron vậy xin bác sĩ cho biết nếu bị hậu Covid-19 có nặng hơn không vì bị nhiễm đến 2 lần",
+    "answer": "Theo WHO các đối tượng có nguy cơ dễ bị hậu Covid bao gồm: người phải nằm viện vì Covid-19, người có hơn 5 triệu chứng ở tuần đầu khi bị Covid (ho, khó thở, tiêu chảy, chóng mặt, đau nhức), người có bệnh lý nền, người trên 65 tuổi.Về vấn đề tim mạch hậu Covid-19 các triệu chứng giống như một người bị bệnh lý tim mạch thông thường nên khi các anh chị có các dấu hiệu cảnh báo như: tức ngực, hụt hơi, huyết áp cao hoặc thấp thì nên đi khám kiểm tra tim mạch."
+  },
+  {
+    "id": 90,
+    "question": "Khi tôi có hiện tượng sốt test tại nhà dương tính và bị sốt cao trong 1 ngày, sau đó uống thuốc hỗ trợ giảm sốt, thuốc 3B, Ngậm bảo thanh sau 24 tiếng không sốt nhiệt độ, spo2 bình thường, không ho, hơi ngứa cổ và không dùng thuốc gì hết, vậy tôi có cần uống thêm thuốc kháng virus hay hỗ trợ gì nữa không các BS. Và khi nào tôi được tiên thêm vắc xin covid. Xin cảm ơn.",
+    "answer": "Không nên uống thuốc kháng virus bởi thuốc này uống theo chỉ định của bác sĩ, và phải uống sớm thì mới hiệu quả. Thuốc kháng virus tự ý sử dụng có thể gây ra các phản ứng nghiêm trọng. Các loại thuốc kháng virus cần có chỉ dẫn của bác sĩ khi sử dụng."
+  },
+  {
+    "id": 91,
+    "question": "Sau khi khỏi bệnh được 1 tuần, tôi bị tiêu chảy kéo dài, đến nay là ngày thứ 3 mặc dù không ăn uống đồ lạ. Không biết đây có phải là triệu chứng hậu Covid-19 không?",
+    "answer": "Mới khỏi bệnh 1 tuần thì chưa gọi là hậu Covid-19, đó có thể là những triệu chứng dai dẳng khi nhiễm Covid-19 cấp."
+  },
+  {
+    "id": 92,
+    "question": "Chồng tôi 37 tuổi hiện đang là F0 được 5 ngày có các triệu chứng như ho, sốt, nghẹt mũi và có cả triệu chứng hơi đau ở tim. Như vậy, chồng tôi có phải bị hậu Covid-19 không? Nếu sau khi âm tính chồng tôi có cần đi siêu âm, chụp x-quang tim phổi không?",
+    "answer": "Theo WHO, hậu Covid-19 khởi phát và thường kéo dài ít nhất 2 tháng sau khi hết Covid-19 và không thể giải thích bằng chẩn đoán khác khiến cho người bệnh bị suy giảm kéo dài có tác động nghiêm trọng đến khả năng quay trở lại làm việc hoặc tham gia cuộc sống xã hội. Hậu Covid ảnh hưởng đến sức khoẻ tinh thần, thể chất và gây ra những hậu quả kinh tế cho bản thân và gia đình. Nên các triệu chứng của chồng chị là triệu chứng của hậu Covid-19"
+  },
+  {
+    "id": 93,
+    "question": "Bệnh nhân Covid-19 sau khỏi bệnh, khi nào cần đi thăm khám hậu Covid? Khi nào xần được chỉ định chụp X-quang, thưa chuyên gia?",
+    "answer": "Khi bạn có triệu chứng mới nên đi khám. Bạn chỉ nên chỉ nên chụp X-quanng phổi khi bạn nghĩ đến bạn bị tổn thương phổi do hậu Covid-19. Muốn biêt các tổn thương phổi do hậu Covid-19 phải chụp CT phổi chứ nếu chỉ chụp X-quang phổi thường dễ bỏ qua những tổn thương nhỏ."
+  },
+  {
+    "id": 94,
+    "question": "Xin hỏi có cách nào biết được mình đã từng nhiễm Covid trong quá khứ, đồng thời đã tiêm 3 mũi vaccine ?",
+    "answer": "Bạn có thể thực hiện xét nghiệm máu xem có miễn dịch hay không. Nhưng việc này không cần thiết bởi sẽ gây tốn kém, và cũng có thể khó phát hiện."
+  },
+  {
+    "id": 95,
+    "question": "@TS-BS Lê Thị Thu Hương : Thưa bác sĩ, sau khi mắc Covid-19 tôi thường có cảm giác hụt hơi, thở nhanh nếu vận động mạnh như leo cầu thang, chạy bộ như vậy có phải tôi bị hậu Covid-19 và có cần khám hay không?",
+    "answer": "Cảm giác hụt hơi, thở nhanh khi vận động sau khi mắc Covid-19 có thể do nhiều nguyên nhân, cũng có thể do tình trạng hậu Covid-19. Bạn có thể kiểm tra khả năng gắng sức của mình bằng cách đứng lên ngồi xuống trong vòng 1 phút hoặc đi bộ 40 bước trên mặt phẳng, nếu nồng độ oxy giảm 3% so với giá trị ban đầu thì nên đi khám sớm ở cơ sở y tế.Bạn cần có các bài tập thở, vận động nhẹ vừa sức và tăng dần, theo dõi SpO2 khi vận động. Nếu tình trạng không cải thiện thì bạn nên đến cơ sở y tế để thăm khám."
+  },
+  {
+    "id": 96,
+    "question": "Em và chồng đều mới bị Covid-19 khỏi bệnh được vài ngày. Chúng em có kế hoạch có con nhưng không biết Covid-19 có ảnh hưởng đến em bé không, chúng em có nên chờ vài tháng sau mới có con không thưa bác sĩ?",
+    "answer": "Hiện tại việc lên kế hoạch sinh con sau khi mắc COVID-19 sẽ tùy thuộc vào rất nhiều yếu tố: tình trạng sức khỏe của cả 2 vợ chồng, việc có sử dụng thuốc kháng virus trong thời gian mắc COVID-19, việc chuẩn bị tâm lý và cả sức khỏe cho cả 2 vợ chồng. Nếu 2 vợ chồng em có sử dụng thuốc kháng virus trong thời gian mắc COVID-19, cụ thể là Monulpiravir thì không nên có em bé trong vòng 3 tháng sau uống thuốc này. Đồng thời, ở phụ nữ chuẩn bị mang thai cũng nên khám sức khỏe tổng quát và khám sản phụ khoa để đánh giá sức khỏe trước mang thai, đồng thời được bác sĩ tư vấn bổ sung thuốc uống để tăng cường sức khỏe chuẩn bị mang thai và ngăn ngừa dị tật cho em bé. Vì vậy, 2 vợ chồng em cần đi khám sức khỏe để được tư vấn kỹ càng trước khi có kế hoạch mang thai."
+  },
+  {
+    "id": 97,
+    "question": "Hiện nay số trẻ mắc Covid-19 khá nhiều rồi, chúng ta có tính đến phương án cho trẻ đã mắc đi học trước?",
+    "answer": "Tôi muốn nhấn mạnh với các bạn rằng, các trường hợp tự test ở nhà mà không có triệu chứng gì thì không gọi trường hợp đó là bệnh mà là người lành mang virus như các bệnh nhiễm khuẩn khác. Đây là kiến thức cơ bản về vi sinh học, bệnh lý học và miễn dịch học. Chỉ có những người vừa xét nghiệm dương tính vừa có triệu chứng mới gọi là bệnh.Khi đã là bệnh rồi thì cũng như các bệnh khác như cảm cúm không nên cho con đi học.Với bối cảnh hiện nay tôi cho rằng nên cho trẻ đi học bình thường, khi trẻ có bệnh nên cho trẻ nghỉ học ở nhà, theo dõi sức khoẻ đến khi khỏi bệnh thì đi học."
+  },
+  {
+    "id": 98,
+    "question": "Em gái tôi bị Covid-19 rất nặng từ tháng 9-2021, phải nằm viện suốt vài tháng, thở máy xâm lấn, lọc máu, sau đó tập vật lý trị liệu dài ngày. Hiện nay em đã đi làm trở lại được 2 tháng và sức khỏe vẫn còn yếu so với ngày trước. Khoảng vài tuần trước thì em có than tự dưng hay bị chóng mặt, ù tai, vận động mạnh có khi nặng ngực, sau đó lại khỏi. Đó có phải hậu Covid-19 không và tôi nên làm sao để giúp em mau hồi phục?",
+    "answer": "Chào anh, bệnh của em khi nhiễm Covid-19 là tình trạng nguy kịch, đe doạ tính mạng và đã hồi phục. Tuy nhiên, khi bệnh nặng thì rối loạn nhiều chức năng trong cơ thể, mặc dù đã hồi phục nhưng các cơ quan khác cũng còn ảnh hưởng nên đề nghị anh đưa em gái đến bệnh viện để chuẩn đoán chính xác và đúng mức độ, để có những phương pháp điều trị phù hợp."
+  },
+  {
+    "id": 99,
+    "question": "Lúc bị Covid-19 em nghe bạn chỉ lỡ uống khá nhiều kháng sinh. Bệnh tuy nhẹ mà giờ đã khỏi mấy tuần em vẫn cảm thấy ngồi lâu rất dễ đau lưng, mỏi người, không biết có phải do Covid-19 hay do thuốc ảnh hưởng không ạ?",
+    "answer": "Sau 4 tuần mà tình trạng đau lưng, mỏi mệt, uể oải... của bạn không bớt thì có thể bạn đã mắc hội chứng hậu Covid-19, bạn nên đi khám tại các cơ sở y tế."
+  },
+  {
+    "id": 100,
+    "question": "Cơ quan y tế khuyến cáo: không sử dụng kháng sinh để điều trị bệnh Covid-19, nhưng vì sao vẫn có nhiều bệnh nhân Covid-19 được bác sĩ trong các nhóm tư vấn kê đơn dùng thuốc kháng sinh?",
+    "answer": "Có thể bác sĩ này chưa hiểu hết chủ trương của Bộ Y tế và cũng có một số bác sĩ lo lắng quá nhiều về hiện tượng bội nhiễm. Tôi nghiên cứu về kháng sinh nhiều năm thì không nên sử dụng kháng sinh trong trường hợp này để dự phòng bội nhiễm vì thuốc sẽ không có tác dụng gì mà có hại nhiều hơn."
+  },
+  {
+    "id": 101,
+    "question": "Xin hỏi địa chỉ cơ sở y tế chuyên điều trị Covid-10, cám ơn chương trình?",
+    "answer": "Hiện nay, bên cạnh các bệnh viện chuyên về truyền nhiễm, nhiều bệnh viện đã thực hiện điều trị Covid-19 bằng cách phân luồng riêng, khoa phòng riêng cho các bệnh nhân."
+  },
+  {
+    "id": 102,
+    "question": "Thưa bác sĩ, trước gia đình có bị Covid-19 đã hết, sau đó đi chích mũi 3 sau 1 tháng thì có hiện tượng khi đi đường bằng xe máy bị lơ mơ ảo ảo rất khó chịu, giống đang bồng bềnh trên mây vậy. Tôi phải di chậm lại hít sâu vài nhịp mới trở lại 70% hư bình thường đẻ tiếp tục đi làm việc. cho hỏi này là triệu chứng gì và cách phục hồi lại nếu được ạ",
+    "answer": "Một trong các triệu chứng của hội chứng hậu Covid-19 là \"sương mù não\", tức bệnh nhân có thể giảm tập trung trong một thời gian, hay quên. Nếu bạn có dấu hiệu như thế thì bạn nên đi khám hậu Covid-19."
+  },
+  {
+    "id": 103,
+    "question": "Tôi là F0 khỏi bệnh đã 4 tháng, hồi bị bệnh cũng hành nhiều nhưng vẫn điều trị ở nhà được, chỉ uống thuốc trị triệu chứng. Tôi đã tập thể dục và nâng cao lại thể trạng sau bệnh, nhưng đến nay thỉnh thoảng vẫn có một triệu chứng lạ: nếu tôi cố gắng chạy bộ quá nhiều thì đôi khi thấy ngực trái nhoi nhói, hơi nặng thở nhưng chỉ thoáng quá, một lúc sau khỏe lại. Đó có phải hậu Covid-19 không và có nguy hiểm không? Tôi 50 tuổi, không có bệnh nền.",
+    "answer": "Anh/chị nên:Cách khắc phục sẽ theo những triệu chứng, mỗi triệu chứng sẽ có phương pháp điều trị đặc hiệu. Tuy nhiên, có những phương pháp chung như:1. Tập thể dục thường xuyên và điều độ, vừa sức2. Dinh dưỡng3. Các bài tập thở4. kế hoạch sắp xếp công việc hằng ngày, giảm những công việc không cần thiết để tiết kiệm năng lượng"
+  },
+  {
+    "id": 104,
+    "question": "Xin chào các bác sĩ, cho phép em hỏi thăm, em bị F0, sau khi khỏi bệnh thì cần uống loại vitamin nào để hồi phục sức khỏe không ạ? Xin cảm ơn bác sĩ và các anh chị tòa soạn Báo Người Lao Động nhiều!",
+    "answer": "Sau khi bị Covid-19, bạn có thể uống các loại multivitamin cung cấp đủ các vitamin và chất khoáng cho nhu cầu hàng ngày. Ngoài ra bạn nên tập luyện thể dục, tập thở, có chế độ sinh hoạt, làm việc, nghỉ ngơi phù hợp."
+  },
+  {
+    "id": 105,
+    "question": "Bố tôi năm nay 78 tuổi, từng mắc Covid-19 đợt Delta, là ca nhẹ, không có triệu chứng rõ ràng, chỉ ho cảm chút chút 2 ngày, đến nay đã 5 tháng. Trước và sau khi mắc Covid-19 bố tôi đã tiêm lần lượt đủ 3 mũi. Nhưng tôi nghe nói người bị Covid-19 lần đầu nhẹ thì lần sau sẽ tái nhiễm rất nặng, có phải như thế không? Có cách gì để phòng ngừa lần sau bị bệnh nặng không?",
+    "answer": "Đến nay trên thế giới chưa có nghiên cứu, lần nhiễm thứ 2 sẽ tăng tỷ lệ bệnh nặng hay không. Tuy nhiên, đối với bệnh nhân lớn tuổi và có bệnh lý nền thì nguy cơ trở nặng vẫn có thể xảy ra. Phương pháp phòng ngừa tốt nhất là tuân thủ 5K và tiêm đủ vắc-xin theo quy định của Bộ Y tế."
+  },
+  {
+    "id": 106,
+    "question": "Bố tôi bị nhồi máu cơ tim cách đây nửa năm, đến giờ sức khỏe vẫn còn yếu hơn lúc chưa bị. Ông có tiêm 2 mũi vắc-xin vào tháng 8 và tháng 12-2021, nhưng quyết không chịu tiêm mũi 3 vì 2 mũi trước (AstraZeneca) ông tiêm xong bị hành quá. Bố tôi có nên tiêm tiếp không, và nếu không tiêm thì có nguy cơ nhiễm Omicron nặng với bệnh nền tim mạch không?",
+    "answer": "Theo WHO các đối tượng có nguy cơ dễ bị hậu Covid bao gồm: người phải nằm viện vì Covid-19, người có hơn 5 triệu chứng ở tuần đầu khi bị Covid (ho, khó thở, tiêu chảy, chóng mặt, đau nhức), người có bệnh lý nền, người trên 65 tuổi.Hiện nay, quản lý tiêm vắc-xin ở các cơ sở y tế trước khi tiêm vắc-xin sẽ được kiểm tra tình trạng bệnh lý của bệnh nhân có được tiêm hay không, nên anh cứ cho bác đi khám để bác sĩ chuyên khoa đánh giá lại nguy cơ."
+  },
+  {
+    "id": 107,
+    "question": "Em tiêm vắc-xin mũi 3 ngày 1-1, ngày 16-1 em vẫn có kinh, từ đó đến nay em bị chậm kinh mất 2 tháng và em cũng vừa khỏi Covid-19. Tuy nhiên, hiện đang bị đau bụng dưới âm ỉ suốt 2 ngày, như vậy có phải em bị di chứng hậu Covid-19 khiến chậm kinh hay không? Nếu đi khám thì nên vào phòng khám nào?",
+    "answer": "Theo các bằng chứng hiện tại, có một số báo cáo cho thấy có một số trường hợp phụ nữ có thể có rối loạn kinh nguyệt sau chích ngừa COVID-19 hoặc sau mắc COVID-19. Tuy nhiên, vấn đề rối loạn kinh nguyệt ở phù nữ hoàn toàn không liên quan đến mắc COVID-19 cũng rất thường gặp. Em nên đi khám tại các phòng khám sản phụ khoa hoặc các bệnh viện sản phụ khoa để được thăm khám, tư vấn và điều trị chính xác."
+  },
+  {
+    "id": 108,
+    "question": "Cháu tôi 21 tháng bị nhiễm Covid cách đây 2 ngày. Hiện nay sốt 38 độ, ít chơi ,đang cho bé uống nước điện giải thi thoảng uống sữa bị ói. Vậy xin hỏi cách chăm sóc điều trị tại nhà ra sao? Xin cảm ơn !",
+    "answer": "Bạn không nên cho con ăn hoặc uống ngay khi trẻ đang sốt cao. Bạn hãy hạ sốt cho con trước kể cả khi bụng con không có gì cả hoặc nếu trẻ nôn khi uống thuốc thì có thể dùng hạ sốt theo đường hậu môn sau đó đợi 1-2 tiếng khi giảm sốt hãy cho con ăn hoặc uống con sẽ bớt nôn."
+  },
+  {
+    "id": 109,
+    "question": "Tôi làm nghề lái xe đường dài, sau bị Covid-19 và khỏi, tôi hay bị mất ngủ ban đêm, ban ngày rất mệt mỏi, mất tập trung khi lái xe. Xin bác sĩ tư vấn cho tôi cách khắc phục",
+    "answer": "Triệu chứng mất tập trung, mất ngủ... là những triệu chứng của hội chứng hậu Covid-19. Điều này ảnh hưởng nhiều tới công việc của một tài xế xe đường dài như bạn. Vì vậy bạn không nên tự điều trị với những thuốc thông thường, nhất thiết phải đi khám để có những phương án điều trị phù hợp với nghề nghiệp của bạn."
+  },
+  {
+    "id": 110,
+    "question": "Tôi sinh con trong giai đoạn cao điểm Delta, cả tôi và bé sau đó đều nhiễm bệnh (khi bé được 1 tuần tuổi), rất may cả 2 đều nhẹ. Hiện nay có chủng Omicron thì bé có nguy cơ nhiễm lại cao không thưa bác sĩ, và có khi nào nhiễm lại sẽ nặng hơn không ạ, tôi nghe mọi người đồn tái nhiễm là bệnh nặng. Hiện bé 6 tháng tuổi. Tôi có chích ngừa 1 mũi Pfizer trước khi bị Covid-19 và bổ sung 1 mũi hồi tháng 1, có cho bé bú, không biết bé có được hưởng lợi gì không?",
+    "answer": "Sau khi đã nhiễm chủng Delta, thì các bệnh nhân vẫn có nguy cơ mắc chủng Omicron và các chủng khác nữa nếu có tiếp xúc với nguồn lây bệnh. Các trường hợp tái nhiễm nhưng đã có chích ngừa COVID-19 thì tỉ lệ diễn biến nặng là có nhưng không cao. Nếu em mắc COVID-19 hoặc chích ngừa COVID-19 và cho bé bú thì bé có 1 lượng kháng thể được mẹ truyền qua sữa mẹ sẽ bảo vệ bé tốt hơn."
+  },
+  {
+    "id": 111,
+    "question": "Làm sao khắc phục tình trạng mất ngủ sau Covid-19 ạ. Việc thiếu ngủ, mất ngủ ảnh hưởng nghiêm trọng tới cuộc sống và công việc. Rất mong các bác sĩ có thể giải đáp. Xin chân thành cảm ơn nhiều ạ",
+    "answer": "Mất ngủ là một trong những triệu chứng thường gặp của hội chứng hậu Covid-19. Để làm giảm bớt tình trạng này, bạn có thể tập luyện thể dục nhẹ nhàng, giảm bớt sự lo âu và dùng một số thuốc gây ngủ thông thường. Nếu triệu chứng vẫn kéo dài thì bạn nên đi khám để các bác sĩ chuyên khoa có thể đưa ra biện pháp thích hợp hơn."
+  },
+  {
+    "id": 112,
+    "question": "@TS-BS Lê Thị Thu Hương : Đọc các thông tin tôi được biết hậu Covid-19 có 200 triệu chứng, vậy xin bác sĩ cho biết có phải ai mắc bệnh cũng bị hậu Covid-19?",
+    "answer": "Các triệu chứng hậu Covid-19 thay đổi tuỳ theo nhiều nghiên cứu khác nhau, tỉ lệ những người có tình trạng hậu Covid-19 ước tính khoảng 10 đến 35%. Nhóm nguy cơ cao gặp tình trạng hậu Covid gồm: lớn tuổi, có bệnh nền, tăng huyết áp, đái tháo đường, bệnh mạch vành, có bệnh phổi mạn trước đó bệnh nhân được can thiệp thông khí cơ học (thờ máy), nhập viện (nhập khoa hồi sức tích cực) có các xét nghiệm bất thường khi đang nằm viện, có trên năm triệu chứng trong 1 tuần đầu mắc Covid-19.Nếu bạn không nằm trong nhóm nguy cơ trên, đã tiêm ngừa vaccine đầy đủ và hiện nay không có triệu chứng nào thì không nên quá lo lắng vì phần lớn bệnh nhân sẽ hồi phục hoàn toàn sau khi khỏi Covid-19."
+  },
+  {
+    "id": 113,
+    "question": "Kể ngày khỏi bệnh Covid-19 đến nay khoảng 2 tháng, tôi rất khó ngủ vào ban đêm, có khi gần sáng mới ngủ được. Thỉnh thoảng đang khỏe thì bị chóng mặt, hụt hơi. Tôi không bị bệnh nền, vậy có cần uống thuốc gì không? Cảm ơn Báo Người Lao Động và các Bác sĩ",
+    "answer": "Mất ngủ là một trong những triệu chứng của hội chứng hậu Covid-19. Để làm giảm bớt tình trạng này, bạn có thể tập luyện thể dục nhẹ nhàng, giảm bớt sự lo âu và dùng một số thuốc gây ngủ thông thường.Triệu chứng chóng mặt, hụt hơi cũng thường thấy trên những bệnh nhân mắc hội chứng hậu Covid-19. Bạn có thể tập thở chúm môi, tập luyện thể dục nhẹ nhàng để khắc phục.Nếu các triệu chứng vẫn kéo dài thì bạn nên đi khám để các bác sĩ chuyên khoa có những xét nghiệm, đánh giá tình trạng của bạn để đưa ra phương án điều trị tốt hơn."
+  },
+  {
+    "id": 114,
+    "question": "Mẹ mang thai chuyển dạ sắp sinh thì mắc Covid-19, trở nặng, vậy con có bị làm sao không? Khi trẻ sinh ra thì cần làm gì để tránh bị lây Covid-19 từ mẹ?",
+    "answer": "Nếu mẹ mắc COVID-19 diễn tiến nặng thì tình trạng của bé sẽ tùy thuộc vào mức độ nặng và tuổi thai của bé tại thời điểm sinh, cũng như các bệnh lý kèm theo của bé (nếu có). Khi trẻ sinh ra ở mẹ mắc COVID-19 thì mẹ cần tuân thủ 5K, đặc biệt là đeo khẩu trang và vệ sinh tay trước khi chăm sóc bé. Cho con bú sữa mẹ mang lại nhiều lợi ích cho cả mẹ và bé khi mẹ mắc COVID-19."
+  },
+  {
+    "id": 115,
+    "question": "Tôi đã chích 1 mũi vắc-xin AstraZeneca trước khi mang thai, mũi 2 khi thai được 5 tháng nhưng sau đó sợ ảnh hưởng đến con nhưng không chích nữa. Hiện tôi đã gần tới ngày sinh và đang là F1 (do công ty có người bệnh, tôi có ăn uống chung). Nếu tôi phát bệnh thì nguy cơ tôi và con gặp nguy hiểm có cao không? Tôi lo quá, phải làm gì thưa bác sĩ.",
+    "answer": "Hiện tại, các loại vaccin chích COVID-19 như AstraZeneca, Pfizer… đã có đủ bằng chứng là an toàn trong thai kỳ và giúp giảm nguy cơ biến chứng đối với thai phụ. Bạn đang là F1 nên có chế độ theo dõi sức khỏe tốt để phát hiện kịp thời nếu mắc bệnh. Sản phụ mắc COVID-19 nhờ có hiệu quả của vaccine nên đa số các trường hợp có triệu chứng nhẹ và không ảnh hưởng đến kết cục thai kỳ. Hiện tại các bệnh viện sản phụ khoa đều có bộ phận chăm sóc và điều trị COVID-19 để đảm bảo an toàn cho cả sản phụ và trẻ sơ sinh."
+  },
+  {
+    "id": 116,
+    "question": "Em bị nhiễm covid từ 23/10 và tự cách ly tại nhà. Đến 1 tuần thì e  test lại 1 vạch. Trong thời gian bị nhiễm, em chỉ bị mất khứu vị giác, hay đổ mồ hôi lạnh về đêm chứ không có triệu chứng gì khác. \n\nNhưng đến khi hết bệnh được 1 tuần  thì e lại bị ho rất nhiều. Đến nay đã 4 tháng hơn như em vẫn ho về đêm nhiều ạ. Em đi khám ở BV lớn và cả bác sĩ ngoài được hơn 3 tháng nay nhưng vẫn không khỏi ho. Mặc dù các BS kiểm tra và bảo phổi em đã khoẻ và bảo là ho không phải do phổi, nhưng em vẫn ho đờm trong nhiều ạ. Mong các BS giúp đỡ em ạ, em xin cảm ơn các BS nhiều ạ.",
+    "answer": "Triệu chứng hô hấp của hậu Covid-19 có thể kéo dài nhiều tháng sau khi mắc bệnh. Đôi khi bạn phải điều trị vấn đề này trong một thời gian dài. Tôi khuyên bạn nên kiên nhẫn điều trị và nên đến các cơ sở y tế có phòng khám chuyên về hậu Covid-19."
+  },
+  {
+    "id": 117,
+    "question": "@TS-BS Lê Thị Thu Hương : Hiện tôi đang bị Covid-19 nhưng chỉ có triệu chứng sốt, hơi đau cổ, vậy tôi cần làm gì để bảo vệ bản thân trước hậu Covid-19? Và dấu hiệu nào cần nhận biết để có thể biết mình bị hậu Covid-19?",
+    "answer": "Trước tiên, bạn đang trong giai đoạn Covid-19 cấp tính nên tập tập trung điều trị theo hướng dẫn của cơ quan y tế, giữ sức khoẻ, ngủ đủ giấc, nghỉ ngơi hợp lý, ăn uống đủ chất dinh dưỡng... và giữ tinh thần thoải mái, để giảm thiểu nguy cơ hậu Covid-19,Nếu Covid-19 không nặng, được điều trị đầy đủ, kịp thời thì khả năng bị hậu Covid-19 thấp.Triệu chứng hậu Covid-19 rất đa dạng dễ nhầm với các bệnh lý khác. Do vậy, sau thời gian hồi phục khoảng 4 tuần, nếu các triệu chứng bất thường dai dẳng hoặc xuất hiện các triệu chứng mới mà không giải thích được bằng các nguyên nhân khác thì mới nghĩ tới tình trạng hậu Covid-19."
+  },
+  {
+    "id": 118,
+    "question": "Kính thưa quý chuyên gia, bác sĩ.\n\nNăm nay tôi 40 tuổi, tôi bị Covid-19 vào tháng 8/2021 (chỉ bị nhẹ, không thở máy, trước lúc nhiễm tôi có tiêm 1 mũi vắc xin Astra vào tháng 6/2021), từ lúc khỏi bệnh cho đến nay tôi thấy sức khỏe mình giảm nhiều, thường xuyên bị nghẹt mũi, đau mỏi cơ, hồi hộp lo âu, và rất dễ mệt khi phải làm việc nặng, leo cầu thang... kính mong quý chuyên gia, bác sĩ tư vấn giúp tôi cách để tôi có thể hồi phục sức khỏe. \n\nXin trân trọng cảm ơn.",
+    "answer": "Theo Tổ chức Y tế Thế giới (WHO), đa số trường hợp bệnh nhân hồi phục hoàn toàn sau nhiễm Covid-19, tuy nhiên có khoảng 10-20% trường hợp có triệu chứng Covid-19 kéo dài ở mức độ từ nhẹ đến nặng, gọi là di chứng hậu Covid-19.Bệnh nhân nhiễm Covid-19 sau khỏi bệnh từ vài tuần đến vài tháng vẫn có nguy cơ đối mặt với hàng loạt triệu chứng kéo dài như sốt nhẹ, khó thở, mệt mỏi, ho kéo dài, đau khớp, rụng tóc, tim đập nhanh, đánh trống ngực… Một số trường hợp bệnh nhân gặp tình trạng rối loạn tiêu hóa, ăn uống không ngon miệng, chán ăn, tiêu chảy, rối loạn vị giác, khứu giác…Ngoài ra, bệnh nhân giai đoạn hậu Covid-19 cũng có thể gặp các di chứng về tâm thần kinh như rối loạn tâm lý, lo âu, trầm cảm, giảm sự tập trung, rối loạn giấc ngủ, mau quên, nhạy cảm…Sau nhiễm Covid-19, bạn nên thăm khám các triệu chứng ở các chuyên khoa để được tư vấn, giải thích rõ hơn về các triệu chứng hậu Covid-19 và có biện pháp hồi phục triệu chứng, giảm bớt tâm lý lo âu."
+  },
+  {
+    "id": 119,
+    "question": "Em bị Covid-19 đã khỏi 2 tháng nhưng ở mặt mọc mụn rất nhiều, như vậy có phải bị hậu Covid-19 hay không và nên dùng thuốc gì để chấm dứt tình trạng trên?",
+    "answer": "Mụn có thể có nhiều nguyên nhân: do rối loạn nội tiết, do stress, do nhiễm trùng... Bạn nên đi khám ở các cơ sở y tế có chuyên khoa da liễu."
+  },
+  {
+    "id": 120,
+    "question": "Sau khi bị covid chơi đá banh được không bác sĩ ơi?",
+    "answer": "Khi bị Covid-19 thì cần có thời gian để cơ thể phục hồi, bạn nên tránh vận động thể lực nhiều trong thời gian hồi phục sau bệnh Covid-19, thường là khoảng 2 tuần."
+  },
+  {
+    "id": 121,
+    "question": "Sau khi bị F0 cứ bị chảy nước mũi hoài,đã uống thuốc chữa trị nhưng vẫn không hết, xin cho biết nguyên nhân và cách chữa trị ạ",
+    "answer": "Chảy nước mũi có thể do nhiều nguyên nhân chứ không chỉ do Covid-19, bạn nên đi khám nếu tình trạng kéo dài."
+  },
+  {
+    "id": 122,
+    "question": "Vợ tôi năm nay 32 tuổi, có mắc Covid-19 và đã khỏi nhưng trong quá trình điều trị tại nhà có dùng thuốc kháng virus Molnupiravir, xin bác sĩ cho biết bao lâu nữa thì vợ tôi có thể mang thai?",
+    "answer": "Theo các khuyến cáo hiện tại, phụ nữ có khả năng mang thai nên sử dụng biện pháp tránh thai hiệu quả trong thời gian điều trị và trong 4 ngày sau liều Molnupiravir cuối cùng.Đồng thời, ở phụ nữ chuẩn bị mang thai cũng nên khám sức khỏe tổng quát và khám sản phụ khoa để đánh giá sức khỏe trước mang thai, được bác sĩ tư vấn bổ sung thuốc uống để tăng cường sức khỏe chuẩn bị mang thai và ngăn ngừa dị tật cho em bé. Vì vậy,  em nên đi khám sức khỏe để được tư vấn kỹ càng cụ thể nhé!"
+  },
+  {
+    "id": 123,
+    "question": "Ngay sau khi phát hiện nhiễm covid, tôi đã uống đủ liều Favirpiravir 400mg (20 viên). Việc uống thuốc kháng virus đấy có giảm thiểu được các ảnh hưởng của hậu covid không? Xin cám ơn!",
+    "answer": "Nếu uống thuốc kháng virus đúng và sớm thì sẽ giảm nguy cơ bệnh Covid-19 chuyển sang mức độ nặng và như vậy khả năng bạn mắc hội chứng hậu Covid-19 sẽ giảm đi hơn so với nhóm bệnh nhân Covid-19 mức độ nặng."
+  },
+  {
+    "id": 124,
+    "question": "Tôi mắc Covid-19 và sau khi khỏi bệnh lúc nào cũng cảm thấy buồn ngủ trong khi nhiều người nói hậu Covid-19 làm mất ngủ, vậy triệu chứng của tôi có phải là hậu Covid-19 hay không? Tôi cần khám ở đâu để được tư vấn cụ thể?",
+    "answer": "Sau khi bị Covid-19, một số bệnh nhân bị rối loạn giấc ngủ với nhiều hình thức như khó ngủ, buồn ngủ, giấc ngủ không ổn định, khó đi vào giấc ngủ...Tình trạng mất ngủ trong thời gian bị bệnh cũng khiến cho cơ thể cần ngủ bù.Nếu tình trạng buồn ngủ nhưng bận vẫn duy trì được sự tỉnh táo trong hoạt động hàng ngày và công việc, cơ thể không mệt mỏi thì bạn cần điều chỉnh thời gian giấc ngủ hợp lý. Nếu tình trạng này ảnh hưởng đến công việc, kéo dài, hoặc có triệu chứng khác như ngáy,... thì bạn nên đi khám"
+  },
+  {
+    "id": 125,
+    "question": "Những F0 nào có nguy cơ cao gặp di chứng hậu Covid-19?",
+    "answer": "Theo như quan sát, khi bị nhiễm Covid-19 ở mức độ nặng thì khả năng mắc hội chứng hậu Covid-19 nhiều hơn ở nhóm nhẹ hoặc không triệu chứng. Đối với những ca cần hỗ trợ hô hấp (thở oxy, thở máy...) thường có nguy cơ cao có những triệu chứng của hậu Covid-19 về đường hô hấp, rối loạn nhịp tim... Ngoài ra ở những đối tượng khác cũng có thể có những triệu chứng nhẹ hơn về đường hô hấp, hoặc mất ngủ, mệt mỏi."
+  },
+  {
+    "id": 126,
+    "question": "Con tôi năm nay 5 tuổi, mắc Covid-19 và đã khỏi, trong lúc bị bệnh bé chỉ có triệu chứng nhẹ, sốt nhẹ, ho, sổ mũi và sau 5 ngày đã hết hoàn toàn triệu chứng. Nhưng 3 tuần sau khi khỏi bệnh, bé hay than mệt, ăn uống kém, đêm ngủ hay quấy khóc. Bác sĩ cho tôi hỏi có phải con tôi đã có dấu hiệu bị hậu Covid-19 không? Hậu Covid-19 ở trẻ em có nguy hiểm không và tôi phải làm gì để cải thiện tình trạng của con. Cảm ơn bác sĩ.",
+    "answer": "Trường hợp con bạn nếu có những biểu hiện như vậy bạn nên cho con đi khám để kiểm tra chức năng tim và phổi. Nếu có biểu hiện ở phổi hoặc tim thì đó là hậu Covid-19. Bác sĩ điều trị sẽ có tư vấn phù hợp."
+  },
+  {
+    "id": 127,
+    "question": "Tôi bị Covid-19 mức độ không nặng, chủ yếu cũng ho, sổ mũi, mỏi người như những lần bệnh cảm trước nên vẫn làm việc online xuyên suốt những ngày cách ly. Tuy nhiên sau khi hết cách ly, tôi đi làm lại cảm thấy rất mau xuống sức, hay buồn ngủ… Đó có phải hậu Covid-19 không và tôi nên làm gì để khắc phục?",
+    "answer": "Mệt mỏi, suy nhược là một trong các dấu hiệu thường gặp của tình trạng hậu COVID-19. Bạn nên xem lại chế độ ăn, uống, nghỉ ngơi của mình có hợp lý chưa và điều chỉnh. Bạn cần có thời gian để hồi phục sau một đợt bệnh cấp tính. Nếu tình trạng mệt mỏi kéo dài ảnh hưởng nhiều đến công việc và làm bạn lo lắng thì bạn nên đi khám tại các phòng khám hậu COVID-19 để được đánh giá toàn diện."
+  },
+  {
+    "id": 128,
+    "question": "Thưa bác sĩ, trước gia đình có bị covid rồi hết, sau đó đi chích mũi 3 sau 1 tháng thì có hiện tượng khi đi đường bằng xe máy bị lơ mơ ảo ảo rất khó chịu, giống đang bồng bềnh trên mây vậy. tôi phải di chậm lại hít sâu vài nhịp mới trở lại 70% hư bình thường đẻ tiếp tục đi làm việc. Cho hỏi này là triệu chứng gì và cách phục hồi lại nếu được ạ!",
+    "answer": "Bạn cần đi khám chuyên khoa thần kinh hoặc đến phòng khám hậu COVID-19 để được khám và đánh giá chính xác các triệu chứng của bạn có phải hậu COVID -19 hay một tình trạng bệnh không liên quan COVID-19. Bác sỹ cần khai thác thêm nhiều thông tin hơn tiền sử bệnh và biểu hiện triệu chứng của bạn."
+  },
+  {
+    "id": 129,
+    "question": "Xin được hỏi: Sau khi đã khỏi Covid-19, thời gian quy định là mấy tháng thì được tiêm vac-xin covid? Trân trọng cám ơn.",
+    "answer": "Theo thông tư số 10225/BYT-DP về tiêm phòng vaccine cơ bản và nhắc lại, thời gian tiêm vaccine phụ thuộc vào khoảng cách thời gian mũi trước- mũi sau của mỗi loại vaccine chứ không phụ thuộc vào việc bạn mắc Covid-19. Do vậy, bạn vẫn có thể tiêm được nếu đủ thời gian quy định của mỗi loại vaccine theo hướng dẫn của Bộ Y tế."
+  },
+  {
+    "id": 130,
+    "question": "Cháu bị F0, những ngày đầu chỉ có biểu hiện ngạt mũi, ngày hôm sau hơi đau rát họng kèm sốt rét. Thế nhưng vài ngày sau cháu bị những cơn ho kinh hoàng, ho nhiều đến mức mệt lả, đau đầu, đau người. Cháu đã uống rất nhiều thuốc ho và ngậm, chỉ mong sao cắt được cơn ho. Trong gia đình cháu, con gái 12 tuổi cũng có tình trạng ho liên tục sau Covid-19. Vậy cháu phải làm thế nào để cắt cơn ho?",
+    "answer": "Bạn nên dùng những thuốc ho an toàn như các loại thuốc ho đông y, thảo dược, bổ phế. Tình trạng ho sau Covid-19 thường kéo dài, bạn nên theo dõi 1-2 tuần nữa, nếu không đỡ bạn cần đi khám."
+  },
+  {
+    "id": 131,
+    "question": "Tôi là F0 đả khỏi bệnh sau 10 ngày dương tính.Nhưng sau khi khỏi bệnh tôi thấy trong người còn rất mệt,luôn cảm thấy tay chân và cơ thể mỏi mệt.Vậy các Bác Sĩ cho hỏi tôi có phải bị hậu covid không,tôi nên dùng thuốc gì để cho sức khỏe ổn định trở lại.Xin cảm các Bác.",
+    "answer": "Hội chứng hậu Covid-19 được định nghĩa là những vấn đề phát sinh sau 4 tuần. Còn những vấn đề bạn gặp phải là do tình trạng suy nhược sau khi mắc bệnh nhiễm trùng. Bạn cần ăn uống, tập luyện thể dục nhẹ nhàng, tập thở, sinh hoạt, làm việc điều độ... để mau hồi phục."
+  },
+  {
+    "id": 132,
+    "question": "@TS-BS Cao Thị Mỹ Thúy ơi bị F0 nên ăn uống như thế nào?",
+    "answer": "Nguyên tắc bổ sung dinh dưỡng cho bệnh nhân F0 là cung cấp đủ các chất dinh dưỡng, nước, vitamin, khoáng chất để nâng cao thể trạng và miễn dịch. Người bị F0 ăn đủ các bữa ăn chính, có thể thêm các bữa ăn phụ bằng sữa. Ăn nhiều trái cây và uống đủ nước."
+  },
+  {
+    "id": 133,
+    "question": "Chào bác sỉ tôi bị covid được 10 ngày nay đã test âm tính nhưng vẫn còn nhức đầu tức ngực và mệt mỏi xin bác sỉ cho biết cách điều trị cám ơn bác sĩ.",
+    "answer": "Bạn nên theo dõi sức khoẻ từ 1-2 tuần nữa nếu các triệu chứng đau ngực và nhức đầu vẫn còn bạn nên đi khám."
+  },
+  {
+    "id": 134,
+    "question": "Tôi bị nhiễm covid-19 đã 6 ngày, có dùng thuốc molnupiravir gần hết liệu trình 5 ngày. Nhưng trong thời gian này cơ thể nổi mề đay khắp cơ thể. Bản thân tôi từng bị tình trạng nổi mề đay nhiều lần, đi khám nhiều nơi thì các bác sỹ nói là cơ địa dị ứng, viêm da cơ địa. Xin các bác sỹ cho tôi hỏi trong thời gian này tôi có uống các thuốc kháng dị ứng được không? Hay có cách gì giảm triệu chứng nổi mề đay được không? Tôi xin trân trọng cảm ơn !",
+    "answer": "Các thuốc điều trị tình trạng dị ứng thông thường không ảnh hưởng tới việc hồi phục sau khi mắc Covid-19 Với chẩn đoán viêm da dị ứng, viêm da cơ địa thì bạn nên uống thuốc theo chỉ định của bác sĩ chuyên khoa."
+  },
+  {
+    "id": 135,
+    "question": "Sau khi bị FO cứ bị chảy nước mũi hoài,đã uống thuốc chữa trị nhưng vẫn không hết, xin cho biết nguyên nhân và cách chữa trị.",
+    "answer": "Đường hô hấp trên là nơi tấn công của SAR-COV2 và khi bị COVID-19 các triệu chứng của hô hấp trên thường xuất hiện. Nếu triệu chứng của bạn kéo dài sau, bạn nên đi khám chuyên khoa tai mũi – họng hoặc phòng khám hậu COVID 19 để được chẩn đoán và điều trị thích hợp. Có thể phải sử dụng các thuốc có chứa corticosteroid xịt mũi."
+  },
+  {
+    "id": 136,
+    "question": "Có ý kiến cho rằng mặc dù trẻ nhỏ có triệu chứng nhẹ được điều trị tại nhà nhưng cha mẹ vẫn nên cho con đi kiểm tra lại sức khỏe sau khi mắc bệnh, nhất là kiểm tra chức năng hô hấp, cơ quan tim mạch… để phát hiện và điều trị sớm những tổn thương có thể gặp phải khi trẻ chẳng may mắc Covid-19. Theo ông điều này có thực sự cần thiết?",
+    "answer": "Bạn chỉ nên cho trẻ đi khám chỉ khi có triệu chứng còn không có triệu chứng thì không cần đi khám. Tuy nhiên, nếu bạn vẫn lo lắng cho sức khoẻ của con thì cho cháu đi khám cũng được."
+  },
+  {
+    "id": 137,
+    "question": "Tôi FO khi sau hết tôi bị nhức đầu chóng mặt mệt mõi xin bác sĩ cho biết có phải là đi chứng của covid phải không? Xin cám ơn rất nhiều!",
+    "answer": "Hậu COVID-19 là Các dấu hiệu và triệu chứng xuất hiện trong hoặc sau khi bị COVID-19, tiếp tục kéo dài trên 12 tuần và không giải thích được bởi chẩn đoán nào khác. Các dấu hiệu và triệu chứng hậu COVID-19 đa dạng và biểu hiện ở nhiều cơ quan. Triệu chứng nhức đầu, chóng mặt, mệt mỏi của Cô (Chú) nếu bị kéo dài sau khi bị COVID thì nên đi khám tại các phòng khám hậu COVID để được đánh giá và điều trị thích hợp."
+  },
+  {
+    "id": 138,
+    "question": "Tôi khỏi covid 10 ngày rồi nhưng hiện tại rất mệt và không ngủ được. Ngày đêm đều không ngủ được. Tôi có dùng thuốc ngủ thảo dược nhưng vẫn không ngủ được. Tôi rất lo lắng. Xin các bác sĩ tư vấn. Tôi xin cảm ơn!",
+    "answer": "Mệt mỏi và rối loạn giấc ngủ là các biểu hiện thường gặp khi bị COVID-19 và hậu COVID-19. Bạn nên đến khám tại các phòng khám hậu COVID-19 để được khám và đánh giá toàn diện. Tuỳ theo tình trạng hiện tại của bạn mà bác sỹ sẽ chỉ định các xét nghiệm cơ bản hay chuyên sâu như đo đa ký giấc ngủ và có hướng điều trị phù hợp từ không dùng thuốc đến dùng thuốc."
+  },
+  {
+    "id": 139,
+    "question": "Một số nghiên cứu trên thế giới cho thấy, tinh dịch ở người mắc Covid-19 có chứa dấu vết của virus SARS-CoV-2. Vậy xin bác sĩ cho biết sau khi khỏi Covid-19 có thể quan hệ tình dục khi nào?",
+    "answer": "Sau khi khỏi COVID-19, nam giới có thể quan hệ tình dục bình thường. Tuy nhiên, có một số điểm lưu ý như sau. Đối với nam giới có sử dụng Molnupiravir để điều trị COVID-19 : Molnupiravir có thể ảnh hưởng đến tinh trùng. Vì vậy, nam giới có hoạt động tình dục nên sử dụng một phương pháp tránh thai tin cậy trong thời gian điều trị và ít nhất 3 tháng sau liều Molnupiravir cuối cùng. Hiện tại việc lên kế hoạch sinh con sau khi mắc COVID-19 sẽ tùy thuộc vào rất nhiều yếu tố: tình trạng sức khỏe của cả 2 vợ chồng, việc có sử dụng thuốc kháng virus trong thời gian mắc COVID-19, việc chuẩn bị tâm lý và cả sức khỏe cho cả 2 vợ chồng. Đồng thời, ở phụ nữ chuẩn bị mang thai cũng nên khám sức khỏe tổng quát và khám sản phụ khoa để đánh giá sức khỏe trước mang thai, đồng thời được bác sĩ tư vấn bổ sung thuốc uống để tăng cường sức khỏe chuẩn bị mang thai và ngăn ngừa dị tật cho em bé. Vì vậy, 2 vợ chồng em cần đi khám sức khỏe để được tư vấn kỹ càng cụ thể nhé."
+  },
+  {
+    "id": 140,
+    "question": "Gia đình cháu có 2 bé 9 tuổi và 4 tuổi mắc Covid-19. Sau khi âm tính con vẫn  húng hắng ho, đến nay đã 2 tuần nhưng bé vẫn còn ho vậy cháu có cần cho con uống thuốc gì không thưa bác sĩ?",
+    "answer": "Bạn có thể cho con uống thuốc đông y Ích như, Vi ho đan, bổ phế... Nếu sau 2 tuầng không đỡ thì đi khám cho con."
+  },
+  {
+    "id": 141,
+    "question": "Cho em hỏi: Con em sinh ngày 10/11/2012 (10 tuồi) bị COVID, mới hết (âm tính) được 10 ngày. Vậy khi nào tiêm Vacxin COVID được? Trân trọng cảm ơn!",
+    "answer": "Theo quy định hiện hành, sau khi mắc Covid-19 bệnh nhân vẫn có thể chích vắc-xin ngừa Covid-19 bình thường, không quy định thời gian hoãn tiêm. Vì vậy bạn có thể cho con bạn chích theo lịch của địa phương."
+  },
+  {
+    "id": 142,
+    "question": "Thưa TS-BS Tôi mắc covid nay đã được 7 ngày, hiện tại tình trạng sức khoẻ của tôi có những dấu hiệu như sau:\n- Mệt ngực, hơi thở ngắn, hay chóng mặt\n- Hôm qua tôi là ngày thứ 6 tôi test thì vẫn còn 2 vạch mờ\nVậy những triệu chứng trên có ảnh hưởng nhiều đến sức khoẻ không? và thời gian bao lâu thì có thể âm tính và trở lại cuộc sống bình thường được ạ? Xin cảm ơn TS-BS.",
+    "answer": "Hiện tại bạn trong giai đoạn Covid-19 cấp tính, bạn nên tập trung điều trị theo hướng dẫn của cơ quan y tế. Bạn cần ăn uống đủ chất dinh dưỡng, nghỉ ngơi hợp lý, tập thở, giữ tinh thần thoải mái.Bạn có thể tham khảo hướng dẫn của sở y tế tạihttps://hcdc.vn/category/van-de-suc-khoe/covid19/tai-lieu-truyen-thong/f0-amp-f1/huong-dan-goi-cham-soc-suc-khoe-tai-nha-cho-nguoi-f0-phien-ban-17-ab3a6e43d082a0f58abc45885f5e1860.htmlVấn đề hồi phục còn phụ thuộc vào mức độ nặng cũng như thời gian hồi phục qua giai đoạn Covid-19 cấp tính. Quá trình điều trị Covid-19 cấp tính hồi phục càng nhanh thì quá trình trở lại cuộc sống bình thường càng nhanh."
+  },
+  {
+    "id": 143,
+    "question": "Sau khi khỏi Covid-19, các bà bầu cần chú ý chăm sóc sức khỏe như thế nào?",
+    "answer": "Giai đoạn hậu Covid-19 mẹ bầu cần tiếp tục theo dõi và nâng cao sức khỏe để sớm hồi phục sức khỏe toàn diện.Tập hít thở: Tập hít sâu và thở ra nhẹ nhàng, chậm rãi, nhịp độ tăng dần theo ngày. Tập thể dục: Thực hiện các bài tập vận động nhẹ nhàng như đi bộ, yoga ít nhất 30 phút mỗi ngày. Bổ sung dinh dưỡng: Tham vấn ý kiến của chuyên gia dinh dưỡng để có chế độ dinh dưỡng khoa học, bổ sung đầy đủ dinh dưỡng giúp nhanh hồi phục và đảm bảo dưỡng chất cho thai nhi. Tâm lý: Mẹ bầu nên sinh hoạt điều độ, ngủ đủ giấc, nghe nhạc thư giãn và nói chuyện với gia đình, bạn bè để giữ tinh thần vui vẻ, tích cực."
+  },
+  {
+    "id": 144,
+    "question": "Với trẻ nhỏ dưới 2 tuổi có hậu Covid không thưa PGS Nguyễn Tiến Dũng? Nếu có, làm sao cha mẹ nhận biết được?",
+    "answer": "Đúng là rất khó nhận biết hậu Covid ở trẻ dưới 2 tuổi vì các cháu không nói và kể được triệu chứng của mình với cha mẹ. Tuy nhiên, bạn có thể quan sát cháu về các triệu chứng như ho, sốt, mệt mỏi, ăn kém, không chịu chơi, ngủ nhiều, nôn ói hoặc tiêu chảy... Khi có bất cứ các triệu chứng nào kể trên mà bạn nghĩ rằng có thể do hậu Covid-19 bạn nên cho con đi khám."
+  },
+  {
+    "id": 145,
+    "question": "Em gái tôi có bầu 30 tuần và phát hiện mắc Covid-19, hiện đã khỏi, xin bác sĩ cho biết cần phải theo dõi những triệu chứng gì để biết đó là hậu Covid-19? Có ảnh hưởng gì đến thai nhi không?",
+    "answer": "Theo Tổ chức Y tế Thế giới (WHO), đa số trường hợp bệnh nhân hồi phục hoàn toàn sau nhiễm Covid-19, tuy nhiên có khoảng 10-20% trường hợp có triệu chứng Covid-19 kéo dài ở mức độ từ nhẹ đến nặng, gọi là di chứng hậu Covid-19.Bệnh nhân nhiễm Covid-19 sau khỏi bệnh từ vài tuần đến vài tháng vẫn có nguy cơ đối mặt với hàng loạt triệu chứng kéo dài như sốt nhẹ, khó thở, mệt mỏi, ho kéo dài, đau khớp, rụng tóc, tim đập nhanh, đánh trống ngực… Một số trường hợp bệnh nhân gặp tình trạng rối loạn tiêu hóa, ăn uống không ngon miệng, chán ăn, tiêu chảy, rối loạn vị giác, khứu giác…Ngoài ra, bệnh nhân giai đoạn hậu Covid-19 cũng có thể gặp các di chứng về tâm thần kinh như rối loạn tâm lý, lo âu, trầm cảm, giảm sự tập trung, rối loạn giấc ngủ, mau quên, nhạy cảm…Di chứng tâm thần kinh hậu Covid-19 không chỉ ảnh hưởng sức khỏe và tinh thần mẹ bầu, mà ảnh hưởng cả em bé trong bụng mẹ. Do đó, bên cạnh việc thăm khám thai kỳ sau nhiễm Covid-19 và thăm khám các triệu chứng ở các chuyên khoa chuyên sâu nếu có, mẹ bầu cần khám thêm ở chuyên khoa tâm lý để được tư vấn, giải thích rõ hơn về các triệu chứng hậu Covid-19 và có biện pháp hồi phục triệu chứng, giảm bớt tâm lý lo âu."
+  },
+  {
+    "id": 146,
+    "question": "Mẹ mang thai chuyển dạ sắp sinh thì mắc Covid-19, trở nặng, vậy con có bị làm sao không? Khi trẻ sinh ra thì cần làm gì để tránh bị lây Covid-19 từ mẹ?",
+    "answer": "Khi phụ nữ mang thai mắc Covid-19 ở mức độ nặng thì có khả năng cần phải có những biện pháp chuyên sâu để hỗ trợ hô hấp (thở oxy, thở máy, ECMO...), đôi khi cần phải can thiệp phẫu thuật lấy thai sớm. Do đó sẽ có ảnh hưởng đến tình trạng của thai nhi. Bệnh viện sẽ có những phương án để làm giảm khả năng lây nhiễm từ bà mẹ sang thai nhi, bạn cần thực hiện theo hướng dẫn của bác sĩ điều trị."
+  },
+  {
+    "id": 147,
+    "question": "@TS-BS Lê Thị Thu Hương: Thưa Bác sĩ,tôi có người em năm nay 60 tuổi,bị nhiễm covid tháng 9/2021- hiện nay có triệu chứng bị hut hơi khi sinh hoạt và tính tình thay đổi như người bị trầm cảm (trước đay rát hoạt bát và năng động), xin BS cho hướng điều trị phục hòi- xin chan thành cám ơn",
+    "answer": "Trường hợp này đã lớn tuổi, biểu hiện triệu chứng kéo dài đã hơn 6 tháng (bạn không cho biết tình trạng khi bị Covid-19 nặng hay nhẹ, tiêm vaccine chưa...). Bệnh nhân vẫn còn ít nhất 2 triệu chứng hụt hơi, tính tình như người trầm cảm nên tốt nhất là bạn nên đưa đi khám để xác định vấn đề cụ thể của bệnh nhân là gì để có hướng điều trị."
+  },
+  {
+    "id": 148,
+    "question": "Tôi 61 tuổi và được phường phát cho Molnupiravir, mới uống được 1 ngày mà thuốc hành quá. Triệu chứng của tôi cũng nhẹ, chỉ ho cảm sơ sơ. Vậy tôi uống 2-3 hôm rồi ngừng Molnupiravir cho bớt tác dụng phụ được không? Khoảng mấy ngày thì tôi hết lo bệnh trở nặng?",
+    "answer": "Molnupiravir được sử dụng để điều trị COVID-19 mức độ nhẹ đến trung bình ở người trưởng thành dương tính với xét nghiệm chẩn đoán COVID-19 và có ít nhất một yếu tố nguy cơ làm bệnh tiến triển nặng. Thời gian sử dụng molnupiravir là đủ 5 ngày liên tục. Một số người có thể gặp các tác dụng phụ của thuốc như tiêu chảy, nôn, buồn nôn, chóng mặt, tăng men gan... Nếu Cô/Chú đã tiêm vắc xin phòng COVID-19 đầy đủ, không có bệnh nền mà dùng thuốc molnupiravir bị “hành” quá thì thì Cô/Chú có thể thông báo với y tế địa phương và ngưng molnupiravir."
+  },
+  {
+    "id": 149,
+    "question": "Khi bị Covid-19 tuy triệu chứng đa số nhẹ nhưng tôi có bị 2 cơn chóng mặt khủng khiếp, đứng lên là ngã, buồn nôn, nhưng vài tiếng sau tự khỏi, vã mồ hôi. Tôi hết bệnh được 2 tuần và trong tuần đó có gặp thêm vài lần chóng mặt như thế dù nhẹ hơn. Triệu chứng đó có liên quan đến Covid-19 không và chữa ra sao?",
+    "answer": "Nhiều nghiên cứu đã báo cáo rằng COVID có thể gây chóng mặt trong giai đoạn cấp tính của bệnh nhiễm trùng, trong quá trình hồi phục hoặc là một phần của các triệu chứng COVID kéo dài. Có nhiều nguyên nhân gây chóng mặt trong giai đoạn này như nguyên nhân về thần kinh, tim mạch, hô hấp...Bạn có thể tự kiểm tra nhịp tim, huyết áp khi nguồi xuống và đứng lên. Nếu nhịp tim thay đổi, và huyết áp tụt so với giá trị bình thường thì bạn nên đi khám tại cơ sở y tế sớm, và vì tình trạng này đã xảy ra với bạn nhiều lần."
+  },
+  {
+    "id": 150,
+    "question": "Em 26 tuổi, đã khỏi Covid-19 được 1 tháng, lúc bị thì chắc do tiêm 3 mũi rồi nên triệu chứng cũng không nặng nhưng từ đó đến giờ em rất dễ bị nổi mẩn ngứa, giống như là dễ dị ứng hơn với mọi thứ. Có phải em bị hậu Covid-19 nặng không, chữa như thế nào?",
+    "answer": "Sau nhiễm COVID-19, một số vấn đề về da xảy ra thường xuyên hơn, có thể xuất hiện sớm khi nhiễm COVID nhưng có thể kéo dài vài tháng sau đó. Em nên kiểm tra và dừng tất cả các loại thuốc hoặc thực phẩm nghi ngờ gây dị ứng, hạn chế chà xát mạnh trên da, tẩy giun, tránh lo lắng căng thẳng, uống thuốc kháng histamine có thể giúp giảm ngứa. Thường sau vài tuần tình trạng này sẽ ổn định. Nếu mẩn ngứa nổi ở mặt, gây sưng môi hoặc lưỡi, mệt hoặc có thêm các triệu chứng toàn thân khác thì em nên đi khám bác sĩ."
+  },
+  {
+    "id": 151,
+    "question": "Từ sau khi mắc Covid-19, em cứ có cảm giác như mình thiếu tập trung, học bài chậm hơn, mau mệt hơn, hay quên. Em rất lo lắng vì năm nay em phải thi đại học. Có phải em bị hậu Covid-19 không và làm thế nào để khắc phục?",
+    "answer": "Một số người từng mắc COVID-19 có thể bị giảm trí nhớ và mất khả năng tập trung, nhưng hầu hết sẽ phục hồi mà không ảnh hưởng lâu dài. Những bệnh nhân bị COVID-19 nặng hoặc có một số vấn đề về trí nhớ trước khi bị bệnh có thể bị giảm trí nhớ và giảm khả năng tập trung kéo dài hơn. Trường hợp của em, em có thể nhờ gia đình và bạn bè hỗ trợ bằng cách nhắc em thực hiện công việc vào thời gian cụ thể. Ghi lại trong sổ tay hay trong điện thoại các công việc cần làm, các sự kiện cần nhớ. Khi làm việc mà cần sự tập trung cao thì giảm bớt những việc khác gây phân phân tâm. Em có thể điều chỉnh lại các hoạt động hàng ngày như thực hiện các công việc vừa sức, sắp xếp các công việc theo thứ tự ưu tiên, giảm bớt công việc không cần thiết, bố trí thời gian nghỉ ngơi hợp lý, tránh lo lắng, tập thở và thư giãn. Nếu tình trạng không cải thiện với những biện pháp trên sau một thời gian thì em thu xếp đi khám bác sĩ."
+  },
+  {
+    "id": 152,
+    "question": "Mọi người nói Delta nặng hơn Omicron nhưng tôi thấy các bạn tôi mắc Delta mấy tháng trước chỉ bị ho, mất mùi, còn tôi bị Omicron người uể oải, mỏi nhừ cả 5-6 ngày, dù ho, sổ mũi thì không nhiều. Tôi có nguy cơ bị hậu Covid-19 nhiều không thưa bác sĩ?",
+    "answer": "Mức độ bệnh nặng của một người tùy thuộc nhiều yếu tố, như động lực vi rút, bản thân người đó có bệnh nền hay không, tuổi tác, đã tiêm vaccine ngừa COVID-19 hay chưa, được điều trị kịp thời hay không,… Với các triệu chứng bạn kể như mệt mỏi, uể oải, mỏi nhừ thì không phải là các triệu chứng nặng, mà các vi rút gây cảm lạnh thông thường vẫn có thể gây ra các triệu chứng này. Không phải tất cả bệnh nhân sau khi khỏi COVID-19 đều bị tình trạng hậu COVID ( tỷ lệ bị khoảng 10 - 35% tùy theo nghiên cứu). Với những thông tin bạn cung cấp thì khả năng bị hậu COVID của bạn là thấp."
+  },
+  {
+    "id": 153,
+    "question": "Kể từ ngày khỏi bệnh Covid-19 đến nay khoảng 2 tháng, tôi rất khó ngủ vào ban đêm, có khi gần sáng mới ngủ được. Thỉnh thoảng đang khỏe thì bị chóng mặt, hụt hơi. Tôi không bị bệnh nền, vậy có cần uống thuốc gì không? Cảm ơn Báo Người Lao Động và các Bác sĩ",
+    "answer": "Rối loạn giấc ngủ, chóng mặt, hụt hơi là những triệu chứng được ghi nhận trong tình trạng hậu COVID-19. Nếu các triệu chứng kéo dài, dai dẳng và ảnh hưởng đến chất lượng cuộc sống hay sức khoẻ thì Cô (Chú) nên đi khám tại các phòng khám hậu COVID-19 để được đánh giá chính xác và chỉ định điều trị hợp lý."
+  },
+  {
+    "id": 154,
+    "question": "Tôi bị 13 ngày rồi, ngày 3-3 PCR: CT 10. Test nhanh âm tính ngày thứ 10. 3 ngày qua tối nằm xuống khó thở và khó ngủ, chuyển sang ngủ ngồi, ho nhiều, khi thở phải lấy hơi lên. Bs cho hỏi bây giờ tôi phải dùng thuốc gì? Trong quá trình điều trị tại nhà tôi chỉ uống thuốc hạ sốt 2 ngày, sau đó uống C và súc họng, rửa mũi bằng nước muối.",
+    "answer": "Trong thời gian 4 tuần từ sau khi khởi phát bệnh được gọi là giai đoạn COVID -19 cấp tính. Triệu chứng khó thở, ho là các triệu chứng thường được ghi nhận khi bị COVID-19. Mặc dù bạn đã có kết quả PCR SAR-COV2 âm tính nhưng các triệu chứng vẫn còn, bạn nên đến khám tại các phòng khám hậu COVID để được đánh giá cẩn thận và chỉ định các xét nghiệm cần thiết như Xquang tim phổi… Sau đó sẽ có hướng dẫn điều trị cụ thể. Bạn cũng có thể tập các bài tập thở để phục hồi chức năng hô hấp và giảm triệu chứng khó thở."
+  },
+  {
+    "id": 155,
+    "question": "Sau 7 ngày hết covid, tôi thấy người uể oải mệt mỏi vào buổi sáng. Xin bác sĩ tư vấn tôi nên uống thêm thuốc bổ gì để khỏi tình trạng này!",
+    "answer": "Mệt mỏi là triệu chứng thường gặp sau bị COVID-19 và cần thời gian để hồi phục. Bạn nên có chế độ dinh dưỡng, nghỉ ngơi hợp lý kết hợp tập thể dục nhẹ nhàng. Ngoài ra bạn có thể uống thêm vitamin C, D và Canxi."
+  },
+  {
+    "id": 156,
+    "question": "Chúng tôi rất tin tưởng và mong được chuyên gia hỗ trợ tư vấn không chỉ Covid-19 mà còn 1 số vấn đề về sức khỏe của các con. Làm thế nào để chúng tôi có thể nhận được hỗ trợ tư vấn của PGS- TS- BS Nguyễn Tiến Dũng? Hoặc phiền BS Dũng có thể thông tin giúp về một số nhóm hỗ trợ các gia đình có con là F0 (khám trực tiếp, qua Zalo,...)tin cậy, vì chúng tôi được khuyến cáo có những nhóm mạo danh BS tư vấn để bán thuốc, thực phẩm chức năng.",
+    "answer": "Tôi vẫn đang hỗ trợ các bệnh nhân Covid-19 hoặc tất cả những ai muốn hỏi gì về Covid-19 qua nhóm \"GIUPTOI\" trên mạng. Bạn có thể vào đó để hỏi tất cả mọi thứ hoặc muốn khám tổng quát hậu Covid-19 bạn có thể đăng ký khám tôi ở phòng khám Med247- số 3 Lương Yên (Hà Nội). Bạn có thể vào app của phòng khám hoặc điện thoại trực tiếp để được đăng ký khám trực tiếp lẫn trực tuyến."
+  },
+  {
+    "id": 157,
+    "question": "Tôi đã hết Covid 15 ngày rồi mà sao vẫn còn đờm nhớt màu trắng không phải màu vàng sữa như bị cảm, không đau họng nhưng nuốt nước bọt vào cảm giác đau nhẹ Ho thì rất ít, thỉnh thoảng ho 1 tiếng, khoản 3 lần ho/1 ngày đêm. Xin hỏi BS mình có nên nín lại đừng ho và đừng khạc được không, có nên thăm khám BS hoặc uống thuốc gì thêm không.\nCảm ơn BS",
+    "answer": "Ho là một phản xạ tự nhiên để làm sạch bụi, đờm và các chất kích thích khác nhằm bảo vệ đường thở và phổi. Trong khi hồi phục sau COVID-19, nhiều bệnh nhân có thể tiếp tục ho thêm một thời gian mới hết. Bạn ho có đờm, bạn không nên nín ho khạc mà ngược lại cần ho và khạc hết đờm ra để giúp đường thở thông thoáng. Bạn nên uống đủ nước, thực hiện các bài tập thở để làm sạch phổi mà không gây mệt khi ho khạc. Tuy nhiên, nếu ho có kèm theo các triệu chứng khác như sốt, đờm đổi màu, thở khò khè, hụt hơi, gầy sút, … hoặc ho kéo dài trên 3 tuần thì bạn cần đi khám bác sĩ."
+  },
+  {
+    "id": 158,
+    "question": "Nhà tôi 3 mẹ con có kết quả test dương tính. Tôi có kết quả hôm 15/3 với các triệu chứng đau đầu, hắt hơi chảy nước mũi, rát họng, từ 16/3 đến nay kèm theo ho. Cháu gái nhà tôi 12 tuổi có kết quả test hôm 16/3 dương tính,với các biểu hiện sốt trên 37 độ có lúc trên 38 độ, rát họng, ko ho nhiều nhưng nhiều đờm. Cháu trai nhà tôi 9 tuổi có kết quả dương tính hôm 16/3 với biểu hiện sốt cao trên 38 độ có lúc 40 độ, cháu ko ho nhưng bị nôn trớ, đi ngoài. Tôi đã cho các cháu uống hạ sốt theo liều, uống oresol, cháu gái và tôi có uống thêm kháng sinh và long đờm.Xin các bác sĩ tư vấn phương điều trị hiệu quả vì 3 mẹ con cách li điều trị tại nhà. Tôi xin chân thành cảm ơn!",
+    "answer": "Chị có thể tham khảo Hướng dẫn của Bộ Y tế  về điều trị F0 tại nhà để xử trí đúng và yên tâm hơn. Các cháu nhỏ chủ yếu là điều trị triệu chứng. Chế độ dinh dưỡng đủ chất, trái cây, uống nhiều nước. Giữ môi trường ở sạch sẽ, thông thoáng, mở cửa sổ và tránh máy lạnh."
+  },
+  {
+    "id": 159,
+    "question": "Là F0 ra trạm y tế khai báo không được cấp thuốc, nói là không còn thuốc chỉ phát chai nước xúc họng. Sau đó, phường có đưa cho qđ cách ly và nói nếu cần thì mua thuốc kháng vius. Vậy sao thấy báo chí đài truyền hình đưa tin là sử dụng thuốc sẽ được bs thăm khám và hướng dẫn. Vậy cho tôi hỏi là có cần mua để ở nhà dự phòng không ? Vì nhà tôi có 2 người trên 60 tuổi và có bệnh nền. Cảm ơn rất nhiều!",
+    "answer": "Người bị COVID-19 có bệnh nền điều trị ổn và có triệu chứng nhẹ hoặc không triệu chứng có thể điều trị tại nhà. Thuốc kháng virus Molnupiravir có chỉ định và chống chỉ định theo hướng dẫn của Bộ Y tế. Các trường hợp bị COVID-19 có chỉ định dung Molnupiravir, người nhà có thể mang toa đến nhà thuốc để mua thuốc, không cần dự trữ."
+  },
+  {
+    "id": 160,
+    "question": "Cả nhà tôi bị dương tính Covid, ai cũng có triệu chứng giống nhau là ho, nghẹt mũi, sốt nhẹ. Tôi đã dùng kháng sinh, kháng viêm, hạ sốt được 3 ngày. Nay là ngày thứ 4 có nên dùng thuốc nữa hay ko vì đã hết sốt nhưng còn ho nhẹ và nghẹt mũi. Riêng tôi thì có hơi khó thở (nhưng đo nồng độ oxy 98)? Xin bác sĩ tư vấn giúp ạ.",
+    "answer": "COVID-19 là do nhiễm virus SAR-COV2 gây ra. Vì vậy không có chỉ định dùng kháng sinh. Kháng viêm chỉ dung khi tình trạng nặng. Điều trị chủ yếu là điều trị triệu chứng và tăng cường miễn dịch cơ thể. Trong quá trình điều trị tại nhà cần theo dõi sát triệu chứng chuyển nặng để liên lạc với Cơ quan y tế để được hướng dẫn kịp thời, đặc biệt trong 3 -5 ngày sau khởi phát triệu chứng. Bạn có thể tham khảo Hướng dẫn của Bộ y tế về quản lý F0 tại nhà để biết cách xử trí và theo dõi cho bản thân và gia đình."
+  }
+]
